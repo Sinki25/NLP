@@ -3320,7 +3320,7 @@ AskAPatient.fold-3.test,35489007,Depression,depression,C1579931 C0520887 C199926
 AskAPatient.fold-3.test,3877011000036101,Lipitor,Lipitor,C0593906,C0593906,C0593906 
 AskAPatient.fold-3.test,45326000,Shoulder pain,pain in my shoulder,C0423670 C0037011,C0030193 C1283792 C0524469 C0869975 C0524468 C0037004,
 AskAPatient.fold-3.test,3904011000036106,Zocor,Zocor,C0678181,C0678181,C0678181 
-AskAPatient.fold-3.test,8708008,Sharp pain,quick, sharp pain in center of chest,C0455270,C0455270 C0817096,C0455270 
+AskAPatient.fold-3.test,8708008,Sharp pain,quick sharp pain in center of chest,C0455270,C0455270 C0817096,C0455270 
 AskAPatient.fold-3.test,248490000,Bloating symptom,bloating,C1291077,C1291077,C1291077 
 AskAPatient.fold-3.test,249966004,Spasmodic movement,twitch,C1704276,C0231530,
 AskAPatient.fold-3.test,274676007,Tingling of skin,face and scalp tingling,C0235050,C0015450 C0036270 C2242996,
