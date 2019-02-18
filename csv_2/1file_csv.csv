@@ -301,7 +301,7 @@ AskAPatient.fold-1.test,61372001,Aggression,rage,C1457883 C0001807 C4050402,C003
 AskAPatient.fold-1.test,63102001,Visual disturbance,at times felt that I'm going blind,C0547030 C0029844 C0348571,C0456909,
 AskAPatient.fold-1.test,162315007,Morbid thoughts,obsessively focused on morbid,C0555358,,
 AskAPatient.fold-1.test,56265001,Heart disease,coronary disease,C0018799,C1956346 C0010068,
-AskAPatient.fold-1.test,76948002,Severe pain,severe pain in left shoulder,,C0278140,C1288640 C0524469 C0278140,C0278140 
+AskAPatient.fold-1.test,76948002,Severe pain,severe pain in left shoulder,C0278140,C1288640 C0524469 C0278140,C0278140 
 AskAPatient.fold-1.test,404640003,Dizziness,DIZZINESS,C0012833 C1963093 C4032495 C0042571,C0012833 C0042571 C1963093,C0012833 C1963093 C0042571 
 AskAPatient.fold-1.test,3877011000036101,Lipitor,Lipitor,C0593906,C0593906,C0593906 
 AskAPatient.fold-1.test,45352006,Spasm,spasms,C0026821 C0037763,C0037763,C0037763 
