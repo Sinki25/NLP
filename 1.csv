@@ -2517,7 +2517,7 @@ AskAPatient.fold-2.test,161891005,Backache,Back pain,C0004604,C1963071 C0004604,
 AskAPatient.fold-2.test,405729008,Haematochezia,blood in stool,C0018932,C1321898 C0018932 C0455892,C0018932 
 AskAPatient.fold-2.test,8943002,Weight gain,put weight on suddenly for no reason,C2911647 C0043094,C0231246,
 AskAPatient.fold-2.test,68962001,Myalgia,muscle pain,C0231528,C1963177 C0231528,C0231528 
-AskAPatient.fold-2.test,299042006,Weakness of hand,hands, have little or no grip,C0575810,C0018563 C0220843,
+AskAPatient.fold-2.test,299042006,Weakness of hand,hands have little or no grip,C0575810,C0018563 C0220843,
 AskAPatient.fold-2.test,36349006,Burning pain,Severe B/L shoulder pain,C0234230,C4050465 C0423670 C0037011 C0264097 C1547227 C4050466 C1547231 C1561581,
 AskAPatient.fold-2.test,399068003,Malignant tumour of prostate,prostate cancer,C0376358,C0600139 C0376358,C0376358 
 AskAPatient.fold-2.test,84229001,Fatigue,severe fatigue,C4050243 C0015672,C0015672 C2024893 C1306232,C0015672 
