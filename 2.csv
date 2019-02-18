@@ -169,7 +169,7 @@ AskAPatient.fold-4.test,21290011000036109,testosterone,testonrone,C1295654 C0039
 AskAPatient.fold-4.test,13791008,Asthenia,weakness,C0004093,C3714552,
 AskAPatient.fold-4.test,68962001,Myalgia,muscle ache,C0231528,C0231528,C0231528 
 AskAPatient.fold-4.test,47933007,Foot pain,foot pain,C0016512 C2016948,C0016512 C2016948,C0016512 C2016948 
-AskAPatient.fold-4.test,16386004,Dry skin,dry,itchy skin,C1963094 C0151908,C0033774,
+AskAPatient.fold-4.test,16386004,Dry skin,dry itchy skin,C1963094 C0151908,C0033774,
 AskAPatient.fold-4.test,35489007,Depression,depression,C1579931 C0520887 C1999266 C2121458 C0011570 C0011581 C0812393 C0344315 C0035143 C4049644,C4049644 C0429108 C1999266 C0011570 C1579931 C0011581 C0429068 C0520887 C0344315 C0035143 C0812393,C4049644 C1999266 C0011570 C1579931 C0011581 C0520887 C0344315 C0035143 C0812393 
 AskAPatient.fold-4.test,399114005,Adhesive capsulitis of shoulder,frozen shoulder,C3864195 C2896360 C2896359 C0311223,C0311223,C0311223 
 AskAPatient.fold-4.test,84229001,Fatigue,fatigue,C4050243 C0015672,C0015672 C2024893,C0015672 
@@ -329,7 +329,7 @@ AskAPatient.fold-5.test,86651002,Pulse fast,rapid pulse,C0039231,C0039231,C00392
 AskAPatient.fold-5.test,16046003,Muscle rigidity,muscles stiff,C0026837,C0221170,
 AskAPatient.fold-5.test,102556003,Pain in upper limb,Pain in arms,C0239377,C0030193 C1882272 C2598155 C0446516,
 AskAPatient.fold-5.test,3877011000036101,Lipitor,Lipitor,C0593906,C0593906,C0593906 
-AskAPatient.fold-5.test,76948002,Severe pain,ache was extreme, almost unbearable,C0278140,C0234238,
+AskAPatient.fold-5.test,76948002,Severe pain,ache was extreme almost unbearable,C0278140,C0234238,
 AskAPatient.fold-5.test,6205011000036102,Lipitor 20 mg tablet: film-coated,Lipitor 20mg,C0593906,C0593906,C0593906 
 AskAPatient.fold-5.test,161873000,Heavy legs,felt like I had lead in my legs,C0581911,C1140621 C1442948,
 AskAPatient.fold-5.test,57676002,Arthralgia,joint pain,C0003862,C1963066 C0003862,C0003862 
@@ -941,7 +941,7 @@ AskAPatient.fold-5.test,131148009,Bleeding,bleeding,C0019080,C0019080,C0019080
 AskAPatient.fold-5.test,288231001,Myalgia/myositis - lower leg,debilitating muscle pain in my legs,C1140621 C0027121 C0230446 C0231528,C1140621 C1963177 C0231528,C1140621 C0231528 
 AskAPatient.fold-5.test,22253000,Pain,pain,C0030193 C1882272 C2598155,C0030193,C0030193 
 AskAPatient.fold-5.test,288335007,Difficulty lifting,could hardly lift a glass,C0565676,C0181620,
-AskAPatient.fold-5.test,386692008,Menorrhagia,clotting, and horrible periods,C0025323,C0025344 C1328723 C0005790,
+AskAPatient.fold-5.test,386692008,Menorrhagia,clotting and horrible periods,C0025323,C0025344 C1328723 C0005790,
 AskAPatient.fold-5.test,21343011000036103,atorvastatin,atorvastatin,C0286651,C0286651,C0286651 
 AskAPatient.fold-5.test,162076009,Excessive upper gastrointestinal gas,gastritis,C0426623 C0426624,C0017152 C1277259,
 AskAPatient.fold-5.test,57676002,Arthralgia,joint pain,C0003862,C0003862 C1963066,C0003862 
@@ -1108,7 +1108,7 @@ AskAPatient.fold-5.test,3877011000036101,Lipitor,Lipitor,C0593906,C0593906,C0593
 AskAPatient.fold-5.test,35489007,Depression,big time depression,C1579931 C0520887 C1999266 C2121458 C0011570 C0011581 C0812393 C0344315 C0035143 C4049644,C4049644 C0429108 C1999266 C0011570 C1579931 C0011581 C0429068 C0520887 C0344315 C0035143 C0812393,C4049644 C1999266 C0011570 C1579931 C0011581 C0520887 C0344315 C0035143 C0812393 
 AskAPatient.fold-5.test,422400008,Vomiting,vomiting,C0042963 C1963281,C0042963 C1963281,C0042963 C1963281 
 AskAPatient.fold-5.test,55300003,Muscle cramp,muscle crammps,C0026821,C0026821,C0026821 
-AskAPatient.fold-5.test,90673000,Burning sensation,throbbing,burning sensation,C0241413 C0241057 C0578504 C0085624 C0234655,C0238981 C0578504 C0241413 C0241057 C0241364 C0234655 C0241660 C1444773 C2239188 C0239814 C0857336 C0085624,C0578504 C0241413 C0241057 C0234655 C0085624 
+AskAPatient.fold-5.test,90673000,Burning sensation,throbbing burning sensation,C0241413 C0241057 C0578504 C0085624 C0234655,C0238981 C0578504 C0241413 C0241057 C0241364 C0234655 C0241660 C1444773 C2239188 C0239814 C0857336 C0085624,C0578504 C0241413 C0241057 C0234655 C0085624 
 AskAPatient.fold-5.test,22253000,Pain,pain,C0030193 C1882272 C2598155,C0030193,C0030193 
 AskAPatient.fold-5.test,3877011000036101,Lipitor,Lipitor,C0593906,C0593906,C0593906 
 AskAPatient.fold-5.test,55300003,Muscle cramp,severe muscle back cramp,C0026821,C0270814 C0026821 C1306232,C0026821 
@@ -1144,7 +1144,7 @@ AskAPatient.fold-6.test,25064002,Headache,headaches,C0018681 C2096315,C0018681 C
 AskAPatient.fold-6.test,162031009,Indigestion,indigestion,C0012238 C0013395,C0012238 C0426634 C0013395,C0012238 C0013395 
 AskAPatient.fold-6.test,3877011000036101,Lipitor,lipitor,C0593906,C0593906,C0593906 
 AskAPatient.fold-6.test,48167000,Amnesia,Memory loss,C0002622 C3824794,C0002622 C0751295,C0002622 
-AskAPatient.fold-6.test,46991000,Absent minded,Absent mindendness,,C0424537,,
+AskAPatient.fold-6.test,46991000,Absent minded,Absent mindendness,C0424537,,
 AskAPatient.fold-6.test,3210011000036104,Lexapro,Lexapro,C1170371,C1170371,C1170371 
 AskAPatient.fold-6.test,102551008,Cramp in foot,Severe cramps in toes,C0178422,C4050465 C0264097 C4050466 C0040357 C0026821 C1547231 C1547227 C1561581,
 AskAPatient.fold-6.test,3877011000036101,Lipitor,Lipitor,C0593906,C0593906,C0593906 
@@ -1305,7 +1305,7 @@ AskAPatient.fold-6.test,3877011000036101,Lipitor,Lipitor,C0593906,C0593906,C0593
 AskAPatient.fold-6.test,420038007,Feeling unhappy,sadness,C1688635,C3536794,
 AskAPatient.fold-6.test,271587009,Stiffness,stiffness,C0427008,C0427008,C0427008 
 AskAPatient.fold-6.test,26889001,Myositis,muscle inflammation,C0027121,C0027121,C0027121 
-AskAPatient.fold-6.test,309249007,Calf muscle weakness,loss of muscle strenth, mainly calves,C0030552 C0151786 C1834451 C0586738,,
+AskAPatient.fold-6.test,309249007,Calf muscle weakness,loss of muscle strenth mainly calves,C0030552 C0151786 C1834451 C0586738,,
 AskAPatient.fold-6.test,3877011000036101,Lipitor,Lipitor,C0593906,C0593906,C0593906 
 AskAPatient.fold-6.test,56731001,Hypertonia,Muscle tightness,C0026826,C0877322,
 AskAPatient.fold-6.test,14760008,Constipation,constipation,C0949135 C1963087 C0009806,C1963087 C0009806,C1963087 C0009806 
@@ -1664,7 +1664,7 @@ AskAPatient.fold-6.test,21496011000036106,prednisone,Prednisone,C0065967 C003295
 AskAPatient.fold-6.test,3877011000036101,Lipitor,Lipitor,C0593906,C0593906,C0593906 
 AskAPatient.fold-6.test,36031001,Burning feet,ankles and the soles of my feet feels like I was walking on hot coals,C0231772,C0016504 C2368355 C0230463 C2346415 C0013987,
 AskAPatient.fold-6.test,42345000,Polyneuropathy,polyneuropathy,C0751862 C0152025,C0276588 C1384686 C0152025,C0152025 
-AskAPatient.fold-6.test,271835004,Abdominal distension, gaseous,stomach is bloated, with excess gas,C0235698,C0038351 C0596601,
+AskAPatient.fold-6.test,271835004,Abdominal distension gaseous,stomach is bloated with excess gas,C0235698,C0038351 C0596601,
 AskAPatient.fold-6.test,3877011000036101,Lipitor,lipitor,C0593906,C0593906,C0593906 
 AskAPatient.fold-6.test,55300003,Muscle cramp,severe cramping,C0026821,C1446787 C0026821 C1306232,C0026821 
 AskAPatient.fold-6.test,418290006,Itching,itching,C0033774,C0231530 C0033774,C0033774 
@@ -2111,7 +2111,7 @@ AskAPatient.fold-7.test,68962001,Myalgia,muscle pain,C0231528,C0231528 C1963177,
 AskAPatient.fold-7.test,3877011000036101,Lipitor,Lipitor,C0593906,C0593906,C0593906 
 AskAPatient.fold-7.test,76948002,Severe pain,severe abdonimal pain,C0278140,C1306232 C0030193,
 AskAPatient.fold-7.test,284143002,Difficulty moving arm,could not lift arm,C0578673 C0561986 C0561997 C0563333,C0181620 C1140618 C0446516,
-AskAPatient.fold-7.test,449917004,Cramp in lower limb,cramping in both quads (above knee, back of leg),C3266180 C3266179,C0026821 C1140621 C0022742 C1446787,
+AskAPatient.fold-7.test,449917004,Cramp in lower limb,cramping in both quads (above knee back of leg),C3266180 C3266179,C0026821 C1140621 C0022742 C1446787,
 AskAPatient.fold-7.test,49218002,Hip pain,hip pain,C0030193,C0267028 C0019559 C1963082,
 AskAPatient.fold-7.test,202472008,Hand joint pain,joints in my hands hurt,C0423665,C0018563,
 AskAPatient.fold-7.test,102556003,Pain in upper limb,pain in my arm and shoulder,C0239377,C1283792 C0030193 C1140618 C0037004 C0869975 C0524469 C0524468 C0446516,
@@ -2599,7 +2599,7 @@ AskAPatient.fold-7.test,3723001,Arthritis,Arthritis,C0003864 C3267876,C0003864 C
 AskAPatient.fold-7.test,699376002,Lip swelling,lips started to swell,C0240211 C0239958,C0023759 C0038999,
 AskAPatient.fold-7.test,3877011000036101,Lipitor,Lipitor,C0593906,C0593906,C0593906 
 AskAPatient.fold-7.test,45326000,Shoulder pain,shouldar ache,C0423670 C0037011,C0234238,
-AskAPatient.fold-7.test,309521004,Numbness of hand,prickling,numbness in hand,C0239832,C0239832 C0439814,C0239832 
+AskAPatient.fold-7.test,309521004,Numbness of hand,prickling numbness in hand,C0239832,C0239832 C0439814,C0239832 
 AskAPatient.fold-7.test,44077006,Numbness,numb,C0028643 C0020580,,
 AskAPatient.fold-7.test,161876008,Gland symptom,neck swollen,C0424818,C0027530 C2137077 C0038999,
 AskAPatient.fold-7.test,48532005,Muscle strain,muscle pull,C0080194,C0080194,C0080194 
@@ -2809,7 +2809,7 @@ AskAPatient.fold-7.test,84229001,Fatigue,fatigue,C4050243 C0015672,C0015672 C202
 AskAPatient.fold-7.test,26544005,Muscle weakness,Extreme muscle weakness,C0151786 C1834451 C0030552,C0151786 C1834451 C0587246 C0150841 C1168241 C2673994 C0240479 C0030552 C0586738 C0239831,C0151786 C1834451 C0030552 
 AskAPatient.fold-7.test,13791008,Asthenia,extreme fatigue,C0004093,C0015672,
 AskAPatient.fold-7.test,247592009,Poor short-term memory,short term memory is terrible,C0701811 C0025265,C0701811 C0025265,C0701811 C0025265 
-AskAPatient.fold-7.test,161891005,Backache,"back labor" pains,C0004604,C0030193 C0022864,
+AskAPatient.fold-7.test,161891005,Backache,back labor pains,C0004604,C0030193 C0022864,
 AskAPatient.fold-7.test,25064002,Headache,headaches,C2096315 C0018681,C2096315 C0018681,C2096315 C0018681 
 AskAPatient.fold-7.test,82971005,Impaired mobility,mobility has DECREASED,C0812357 C0518456,C0520870 C1295611 C0520831 C0239787 C0162119 C1295666 C0728725 C1295669 C0425245 C0231441 C2698482 C0032827,
 AskAPatient.fold-7.test,88092000,Muscle atrophy,loss of muscle structure in the calf muscles,C0026846 C0541794,C1269903 C0581753 C0448482,
@@ -3077,7 +3077,7 @@ AskAPatient.fold-8.test,289530006,Vaginal bleeding,bleeding from the vagina,C056
 AskAPatient.fold-8.test,68962001,Myalgia,muscle aches,C0231528,C0231528,C0231528 
 AskAPatient.fold-8.test,271782001,Drowsy,drowsy,C0013144,C0013144,C0013144 
 AskAPatient.fold-8.test,286755001,Impatient character,impatient,C0564565 C0564566,C1256245,
-AskAPatient.fold-8.test,103002009,Sensation of hot and cold,freezing cold,like arms plunged into freezing water,then burning sensations,C0522245,C0241660 C0241057 C0234192 C0239814 C0578504 C0234655 C0857336 C2239188 C0241413 C0446516 C0043047 C0009443 C0085624,
+AskAPatient.fold-8.test,103002009,Sensation of hot and cold,freezing cold like arms plunged into freezing water then burning sensations,C0522245,C0241660 C0241057 C0234192 C0239814 C0578504 C0234655 C0857336 C2239188 C0241413 C0446516 C0043047 C0009443 C0085624,
 AskAPatient.fold-8.test,45352006,Spasm,spasms in upper thighs,C0026821 C0037763,C0037763 C0039866,C0037763 
 AskAPatient.fold-8.test,48167000,Amnesia,memory loss,C0002622 C3824794,C0002622 C0751295,C0002622 
 AskAPatient.fold-8.test,26544005,Muscle weakness,muscle weakness,C0030552 C0151786 C1834451,C0240479 C2673994 C0151786 C0150841 C0586738 C0587246 C0030552 C1834451 C1168241 C0239831,C0151786 C0030552 C1834451 
@@ -3085,7 +3085,7 @@ AskAPatient.fold-8.test,26929004,Alzheimer's disease,alzheimers,C0002395 C047736
 AskAPatient.fold-8.test,282145008,Unable to walk,not being able to walk,C0560046,C1299581,
 AskAPatient.fold-8.test,68962001,Myalgia,painful muscles,C0231528,C0030193,
 AskAPatient.fold-8.test,26413003,Low motivation,unmotivated,C0558078,C0520941,
-AskAPatient.fold-8.test,271832001,Flatulence, eructation and gas pain,gas pains around my abdomen,C0476289 C1962956 C0016204 C0014724,C0476289 C0230168 C0000726,C0476289 
+AskAPatient.fold-8.test,271832001,Flatulence eructation and gas pain,gas pains around my abdomen,C0476289 C1962956 C0016204 C0014724,C0476289 C0230168 C0000726,C0476289 
 AskAPatient.fold-8.test,271587009,Stiffness,stiffness,C0427008,C0427008,C0427008 
 AskAPatient.fold-8.test,3877011000036101,Lipitor,lipitor,C0593906,C0593906,C0593906 
 AskAPatient.fold-8.test,10601006,Pain in lower limb,leg pains,C0023222 C0839480,C0030193 C1140621,
@@ -3341,7 +3341,7 @@ AskAPatient.fold-8.test,22253000,Pain,pain,C0030193 C1882272 C2598155,C0030193,C
 AskAPatient.fold-8.test,77424011000036100,ubidecarenone,coq10,C0056077,C0056077,C0056077 
 AskAPatient.fold-8.test,230645003,Compression neuropathy of trunk,pinched nerve in my back,C0393896,C0273482,
 AskAPatient.fold-8.test,3877011000036101,Lipitor,lipitor,C0593906,C0593906,C0593906 
-AskAPatient.fold-8.test,68962001,Myalgia,terrible, migratory joint pain all over my body,C0231528,C0152338 C0221597,
+AskAPatient.fold-8.test,68962001,Myalgia,terrible migratory joint pain all over my body,C0231528,C0152338 C0221597,
 AskAPatient.fold-8.test,3877011000036101,Lipitor,Lipitor,C0593906,C0593906,C0593906 
 AskAPatient.fold-8.test,3384011000036100,Arthrotec,arthrotec 50,C0210355,C0731334 C0210355,C0210355 
 AskAPatient.fold-8.test,48167000,Amnesia,memory loss,C3824794 C0002622,C0751295 C0002622,C0002622 
@@ -3503,7 +3503,7 @@ AskAPatient.fold-8.test,68962001,Myalgia,Muscle Pain,C0231528,C0231528,C0231528
 AskAPatient.fold-8.test,271807003,Rash,skin rash,C0015230,C0015230,C0015230 
 AskAPatient.fold-8.test,68962001,Myalgia,muscle pain,C0231528,C1963177 C0231528,C0231528 
 AskAPatient.fold-8.test,3559011000036109,Zoloft,zoloft,C0284660,,
-AskAPatient.fold-8.test,82991003,Generalised aches and pains,ached all over, especially in legs,C0281856,C1140621,
+AskAPatient.fold-8.test,82991003,Generalised aches and pains,ached all over especially in legs,C0281856,C1140621,
 AskAPatient.fold-8.test,60238002,Muscle twitch,Muscle twitching,C0231530,C0015644 C0231530,C0231530 
 AskAPatient.fold-8.test,21465011000036101,lisinopril,Lisinopril,C0065374,C0065374,C0065374 
 AskAPatient.fold-8.test,77692006,Hypersomnia,Just wanted to sleep,C0917799,C0424522 C0013144 C0037313,
@@ -3683,7 +3683,7 @@ AskAPatient.fold-8.test,224960004,Tired,tiredness is at a high level,C0557875,C0
 AskAPatient.fold-8.test,77436011000036106,fish oil natural,fish oil,C0016157,C0016157,C0016157 
 AskAPatient.fold-8.test,21821011000036104,codeine,Codeine,C0009214,C0524087 C0009214,C0009214 
 AskAPatient.fold-8.test,36031001,Burning feet,ball of the foot would feel as if it was inflamed,C0231772,C1279650 C0230466 C0013987,
-AskAPatient.fold-8.test,95847005,Muscle injury,permanent, irreversible muscle damage,C0410256 C1998242,C0010957,
+AskAPatient.fold-8.test,95847005,Muscle injury,permanent irreversible muscle damage,C0410256 C1998242,C0010957,
 AskAPatient.fold-8.test,62315008,Diarrhoea,diarrhea,C0011991 C0474498,C1963091 C0011991,C0011991 
 AskAPatient.fold-8.test,57676002,Arthralgia,Joint pain,C0003862,C0003862 C1963066,C0003862 
 AskAPatient.fold-8.test,60119000,Exhaustion,exhaustion,C0392674,C0392674,C0392674 
@@ -4549,7 +4549,7 @@ AskAPatient.fold-9.test,415690000,Sweating,sweating,C0038990,C0038990,C0038990
 AskAPatient.fold-9.test,10601006,Pain in lower limb,in both legs pain,C0023222 C0839480,C0030193 C1140621,
 AskAPatient.fold-9.test,68962001,Myalgia,muscle pain,C0231528,C1963177 C0231528,C0231528 
 AskAPatient.fold-9.test,25064002,Headache,headaches,C2096315 C0018681,C2096315 C0018681,C2096315 C0018681 
-AskAPatient.fold-9.test,68962001,Myalgia,muscle aches,,C0231528,C0231528,C0231528 
+AskAPatient.fold-9.test,68962001,Myalgia,muscle aches,C0231528,C0231528,C0231528 
 AskAPatient.fold-9.test,249913002,Knee stiff,stiffness in both knees,C0240129,C0022742 C0427008,
 AskAPatient.fold-9.test,288231001,Myalgia/myositis - lower leg,Very painful muscle aches in calves,C1140621 C0027121 C0230446 C0231528,C0030193 C0231528,C0231528 
 AskAPatient.fold-9.test,267052005,Flatulence/wind,flatulence,C0016204,C1962956 C0016204,C0016204 
@@ -4577,7 +4577,7 @@ AskAPatient.fold-9.test,162076009,Excessive upper gastrointestinal gas,GERD,C042
 AskAPatient.fold-9.test,55300003,Muscle cramp,mild cramping,C0026821,C1446787 C0026821,C0026821 
 AskAPatient.fold-9.test,473008002,Pain in cheek,Sores on the inner cheeks,C0238973,C0007966,
 AskAPatient.fold-9.test,3877011000036101,Lipitor,Lipitor,C0593906,C0593906,C0593906 
-AskAPatient.fold-9.test,387603000,Impairment of balance,,lack of balance and cooridination,C0241981,C2174421 C1397014 C0014653 C3497399 C0542274 C0179199,
+AskAPatient.fold-9.test,387603000,Impairment of balance,lack of balance and cooridination,C0241981,C2174421 C1397014 C0014653 C3497399 C0542274 C0179199,
 AskAPatient.fold-9.test,301345002,Difficulty sleeping,could not sleep well,C0235162 C3641752,C0424522 C0013144 C0037313,
 AskAPatient.fold-9.test,3877011000036101,Lipitor,Lipitor,C0593906,C0593906,C0593906 
 AskAPatient.fold-9.test,77424011000036100,ubidecarenone,CoQ10,C0056077,C0056077,C0056077 
