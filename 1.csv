@@ -3598,7 +3598,7 @@ AskAPatient.fold-4.test,248277009,Lack of stamina,loss of stamina,C0424592,C0518
 AskAPatient.fold-4.test,3253007,Discolouration of skin,purple sploches around waist,C0151907 C2919557 C2939083 C2919562,C0230097,
 AskAPatient.fold-4.test,29857009,Chest pain,chestpain,C0008031 C2926613,,
 AskAPatient.fold-4.test,68962001,Myalgia,lots of pain in the muscles,C0231528,C0030193,
-AskAPatient.fold-4.test,95891005,Influenza-like illness," fluey" feelings in upper arms, legs,C0521839,C1527305 C0230348 C0013987 C1140621 C0446516,
+AskAPatient.fold-4.test,95891005,Influenza-like illness, fluey feelings in upper arms, legs,C0521839,C1527305 C0230348 C0013987 C1140621 C0446516,
 AskAPatient.fold-4.test,418363000,Itching of skin,pruritus,C0033774,C0033774,C0033774 
 AskAPatient.fold-4.test,271807003,Rash,rash,C0015230,C0015230,C0015230 
 AskAPatient.fold-4.test,3877011000036101,Lipitor,lipitor,C0593906,C0593906,C0593906 
