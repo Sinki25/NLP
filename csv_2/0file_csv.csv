@@ -288,7 +288,7 @@ AskAPatient.fold-0.test,64226004,Colitis,collitis,C0009319 C0267550 C1963084,,
 AskAPatient.fold-0.test,425423002,Pain provoked by movement,painful time lifting my own arm,C1960727,C0030193 C1140618 C0446516,
 AskAPatient.fold-0.test,47004009,Dysphonia,speech so bad,C1527344 C0019825,C0037817 C2137063 C0846595,
 AskAPatient.fold-0.test,68962001,Myalgia,muscle pain,C0231528,C0231528 C1963177,C0231528 
-AskAPatient.fold-0.test,271832001,Flatulence, eructation and gas pain,gas pains back,C0476289 C1962956 C0016204 C0014724,C0476289,C0476289 
+AskAPatient.fold-0.test,271832001,Flatulence eructation and gas pain,gas pains back,C0476289 C1962956 C0016204 C0014724,C0476289,C0476289 
 AskAPatient.fold-0.test,76948002,Severe pain,severe pain,C0278140,C0278140,C0278140 
 AskAPatient.fold-0.test,29857009,Chest pain,chest pain,C0008031 C2926613,C0008031 C2926613,C0008031 C2926613 
 AskAPatient.fold-0.test,26329005,Poor concentration,concentration is worse than ever,C0233417,C1457868 C0854379 C0004268 C0549409 C0086045,
