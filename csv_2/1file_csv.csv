@@ -1,0 +1,434 @@
+AskAPatient.fold-1.test,21545007,Tenalgia,tendonitis,C0231529,C0039503,
+AskAPatient.fold-1.test,3877011000036101,Lipitor,lipitor,C0593906,C0593906,C0593906 
+AskAPatient.fold-1.test,3877011000036101,Lipitor,Lipitor,C0593906,C0593906,C0593906 
+AskAPatient.fold-1.test,21565011000036108,ezetimibe + simvastatin,Vytorin,C0074554 C1142985,C1527845,
+AskAPatient.fold-1.test,248274002,Lack of energy,have no energy,C0015672,C0424589,
+AskAPatient.fold-1.test,102943000,Personality change,changed my personality, from happy to a grouch,C0240735,C0018592 C0442739 C0031208 C0003944,
+AskAPatient.fold-1.test,76948002,Severe pain,severe lower back pain,C0278140,C1306232 C2168111 C0024031,
+AskAPatient.fold-1.test,309774006,Weakness of limb,weakness in back,C1836296 C0587246,C3714552,
+AskAPatient.fold-1.test,84229001,Fatigue,fatigue,C0015672 C4050243,C0015672 C2024893,C0015672 
+AskAPatient.fold-1.test,3877011000036101,Lipitor,Lipitor,C0593906,C0593906,C0593906 
+AskAPatient.fold-1.test,399153001,Vertigo,vertigo,C0042571 C1564535 C1135208,C0042571 C2096293,C0042571 
+AskAPatient.fold-1.test,444899003,Pain in forearm,Pain in forearms,C0239667,C0030193 C1882272 C2598155 C0016536,
+AskAPatient.fold-1.test,3877011000036101,Lipitor,lipitor,C0593906,C0593906,C0593906 
+AskAPatient.fold-1.test,40196000,Mild pain,mild pain,C0278138,C0278138,C0278138 
+AskAPatient.fold-1.test,3877011000036101,Lipitor,Lipitor,C0593906,C0593906,C0593906 
+AskAPatient.fold-1.test,76948002,Severe pain,severe pain in one ankle,C0278140,C0278140 C0179081,C0278140 
+AskAPatient.fold-1.test,3877011000036101,Lipitor,Lipitor,C0593906,C0593906,C0593906 
+AskAPatient.fold-1.test,22298006,Myocardial infarction,heart attack,C0455406 C3845502 C0948369 C0027051 C0155668 C0155626 C2926063 C3810814 C0428953,C0027051,C0027051 
+AskAPatient.fold-1.test,14760008,Constipation,Constipation,C0949135 C1963087 C0009806,C0949135 C1963087 C0009806,C0949135 C1963087 C0009806 
+AskAPatient.fold-1.test,118932009,Disorder of foot,foot problems,C0016510,C0555980,
+AskAPatient.fold-1.test,128139000,Inflammatory disorder,inflammation,C1290884 C3259275 C1285337 C0029400 C0029877 C0399561 C3860213 C3807248,C0854217 C0014236 C0017574 C0029877 C0021368 C0007971,C0029877 
+AskAPatient.fold-1.test,69896004,Rheumatoid arthritis,RA,C0264993 C0409639 C0221614 C0003873 C0455571 C0740223 C0409637,,
+AskAPatient.fold-1.test,84946008,Extreme exhaustion,EXTREME EXHAUSTION,C0277794,C0277794,C0277794 
+AskAPatient.fold-1.test,128139000,Inflammatory disorder,inflamation,C1290884 C3259275 C1285337 C0029400 C0029877 C0399561 C3860213 C3807248,C0021368,
+AskAPatient.fold-1.test,3877011000036101,Lipitor,Lipitor,C0593906,C0593906,C0593906 
+AskAPatient.fold-1.test,48167000,Amnesia,memory loss,C0002622 C3824794,C0002622 C0751295,C0002622 
+AskAPatient.fold-1.test,297217002,Rib pain,sore ribs,C0574068,C0234233 C0035561,
+AskAPatient.fold-1.test,300954003,Pain in calf,calf pains,C0236040,C0236040,C0236040 
+AskAPatient.fold-1.test,68962001,Myalgia,muscle pain,C0231528,C0231528 C1963177,C0231528 
+AskAPatient.fold-1.test,432352001,Increased creatine kinase level,high CPK level,C1301904 C1834662 C0151576 C1275731 C1275725 C2316757 C0750863 C1301804,,
+AskAPatient.fold-1.test,3723001,Arthritis,arthritus,C3267876 C0003864,,
+AskAPatient.fold-1.test,3723001,Arthritis,arthritis,C3267876 C0003864,C0263776 C0003873 C0541786 C0003864 C0158026 C1405877 C1328469,C0003864 
+AskAPatient.fold-1.test,26329005,Poor concentration,terrible concentration,C0233417,C0854379 C0004268 C0549409 C0086045,
+AskAPatient.fold-1.test,30989003,Knee pain,knee pain,C0231749,C0231749,C0231749 
+AskAPatient.fold-1.test,297142003,Foot swelling,swollen feet and ankles,C0574002,C0581394 C0574002,C0574002 
+AskAPatient.fold-1.test,3877011000036101,Lipitor,Lipitor,C0593906,C0593906,C0593906 
+AskAPatient.fold-1.test,35489007,Depression,depression,C0011570 C1579931 C1999266 C0344315 C0520887 C0011581 C4049644 C2121458 C0812393 C0035143,C0011570 C0429108 C1579931 C1999266 C0344315 C0520887 C0011581 C0429068 C0812393 C4049644 C0035143,C0011570 C1579931 C1999266 C0344315 C0520887 C0011581 C0812393 C4049644 C0035143 
+AskAPatient.fold-1.test,3877011000036101,Lipitor,Lipitor,C0593906,C0593906,C0593906 
+AskAPatient.fold-1.test,82639001,Premenstrual tension syndrome,PMS symptoms,C0857183 C0033046 C0376356,C1457887,
+AskAPatient.fold-1.test,3877011000036101,Lipitor,lipitor,C0593906,C0593906,C0593906 
+AskAPatient.fold-1.test,55300003,Muscle cramp,cramps,C0026821,C0026821,C0026821 
+AskAPatient.fold-1.test,4344011000036106,Neurontin,Neurontin,C0678176,C0678176,C0678176 
+AskAPatient.fold-1.test,422400008,Vomiting,vomitting,C0042963 C1963281,,
+AskAPatient.fold-1.test,289903006,Menopause present,menopausal phase,C0567312,C0025320 C1096235,
+AskAPatient.fold-1.test,30989003,Knee pain,knee pain,C0231749,C0231749,C0231749 
+AskAPatient.fold-1.test,81680005,Neck pain,neck pain,C0007859 C1963180,C0007859 C1963180,C0007859 C1963180 
+AskAPatient.fold-1.test,193570009,Cataract,cataract,C1690964 C1962983,C1690964 C1962983,C1690964 C1962983 
+AskAPatient.fold-1.test,102556003,Pain in upper limb,aches and pain in both arms,C0239377,C0234238 C0030193 C0446516,
+AskAPatient.fold-1.test,82991003,Generalised aches and pains,aches and pains,C0281856,C0234238 C0030193,
+AskAPatient.fold-1.test,10601006,Pain in lower limb,leg pain,C0023222 C0839480,C0023222 C0839480,C0023222 C0839480 
+AskAPatient.fold-1.test,22253000,Pain,pain,C0030193 C1882272 C2598155,C0030193,C0030193 
+AskAPatient.fold-1.test,69791001,Increased venous pressure,high blood pressure,C0232115 C0232116,C0020538 C0857121 C0005824 C0005823 C2926615 C1272641,
+AskAPatient.fold-1.test,301345002,Difficulty sleeping,can not sleep,C3641752 C0235162,C0424522 C0037313 C0013144,
+AskAPatient.fold-1.test,386806002,Impaired cognition,Cognitive disfunction,C0338656,C0338656,C0338656 
+AskAPatient.fold-1.test,193462001,Insomnia,Insomnia,C0917801 C1950154 C1963237,C0917801 C1950154 C1963237,C0917801 C1950154 C1963237 
+AskAPatient.fold-1.test,76948002,Severe pain,severe pains,C0278140,C1306232 C0030193,
+AskAPatient.fold-1.test,79890006,Loss of appetite,anorexic,C0003123 C1971624 C0426579,C0003123 C0003620 C0426579,C0003123 C0426579 
+AskAPatient.fold-1.test,161891005,Backache,back pain,C0004604,C0004604 C0677061 C1963071,C0004604 
+AskAPatient.fold-1.test,161891005,Backache,back pain,C0004604,C0004604 C0677061 C1963071,C0004604 
+AskAPatient.fold-1.test,3877011000036101,Lipitor,Lipitor,C0593906,C0593906,C0593906 
+AskAPatient.fold-1.test,202882003,Plantar fasciitis,plantar fasciitis in my feet,C0149756,C0149756 C0016504,C0149756 
+AskAPatient.fold-1.test,3877011000036101,Lipitor,Lipitor,C0593906,C0593906,C0593906 
+AskAPatient.fold-1.test,84114007,Heart failure,weak heart muscle,C0018801 C0018802,C0018801,C0018801 
+AskAPatient.fold-1.test,25064002,Headache,HEADACHES,C0018681 C2096315,C0018681 C2096315,C0018681 C2096315 
+AskAPatient.fold-1.test,88092000,Muscle atrophy,Muscle wasting,C0026846 C0541794,C0026846 C0541794,C0026846 C0541794 
+AskAPatient.fold-1.test,309774006,Weakness of limb,arm weakness,C1836296 C0587246,C0751409,
+AskAPatient.fold-1.test,3384011000036100,Arthrotec,Arthrotec,C0210355,C0210355,C0210355 
+AskAPatient.fold-1.test,57676002,Arthralgia,joint pain,C0003862,C1963066 C0003862,C0003862 
+AskAPatient.fold-1.test,404640003,Dizziness,dizzines,C0012833 C1963093 C4032495 C0042571,C0012833 C0042571,C0012833 C0042571 
+AskAPatient.fold-1.test,3384011000036100,Arthrotec,arthrotec,C0210355,C0731335 C0731334 C0210355,C0210355 
+AskAPatient.fold-1.test,21589011000036108,clonidine,clonidine,C0009014 C2346992 C1882374,C0009014 C2346992 C1882374,C0009014 C2346992 C1882374 
+AskAPatient.fold-1.test,56608008,Pain in wrist,wrist pain,C0221785,C0221785,C0221785 
+AskAPatient.fold-1.test,3877011000036101,Lipitor,Lipitor,C0593906,C0593906,C0593906 
+AskAPatient.fold-1.test,84229001,Fatigue,fatigue,C0015672 C4050243,C0015672 C2024893,C0015672 
+AskAPatient.fold-1.test,25064002,Headache,frequent headaches,C0018681 C2096315,C0948396,
+AskAPatient.fold-1.test,49218002,Hip pain,hip hurt,C0030193,C0019552,
+AskAPatient.fold-1.test,129565002,Myopathy,damaging my muscles,C0026848,,
+AskAPatient.fold-1.test,76948002,Severe pain,severe pain,C0278140,C0278140,C0278140 
+AskAPatient.fold-1.test,247592009,Poor short-term memory,short term memory loss,C0701811 C0025265,C0701811 C0025265,C0701811 C0025265 
+AskAPatient.fold-1.test,3877011000036101,Lipitor,lipitor,C0593906,C0593906,C0593906 
+AskAPatient.fold-1.test,371632003,Coma,coma,C0009421,C0009421,C0009421 
+AskAPatient.fold-1.test,162059005,Upset stomach,stomach upset,C0235309,C0235309,C0235309 
+AskAPatient.fold-1.test,248491001,Swollen knee,swelling in knee,C0240130,C0038999 C0022742,
+AskAPatient.fold-1.test,82971005,Impaired mobility,mobility was going from bad to worse,C0518456 C0812357,C1457868 C0425245 C2698482 C0231441,
+AskAPatient.fold-1.test,282145008,Unable to walk,cannot walk even a short distance due to pain,C0560046,C0030193,
+AskAPatient.fold-1.test,16331000,Heartburn,heartburn,C0018834,C0018834,C0018834 
+AskAPatient.fold-1.test,129859006,Impaired bed mobility,inability to pull myself from bed,C0518456 C0812357,C0580846,
+AskAPatient.fold-1.test,68962001,Myalgia,aching muscles,C0231528,C0234238,
+AskAPatient.fold-1.test,68962001,Myalgia,muscles aches,C0231528,C0234238,
+AskAPatient.fold-1.test,3384011000036100,Arthrotec,Arthrotec,C0210355,C0210355,C0210355 
+AskAPatient.fold-1.test,246636008,Blurred vision - hazy,blured vision,C0344232,C0042789,
+AskAPatient.fold-1.test,3877011000036101,Lipitor,Lipitor,C0593906,C0593906,C0593906 
+AskAPatient.fold-1.test,267036007,Dyspnoea,breathlessness,C0013404,C0425446 C0013404,C0013404 
+AskAPatient.fold-1.test,3723001,Arthritis,arthritis,C3267876 C0003864,C0263776 C0003873 C0541786 C0003864 C0158026 C1405877 C1328469,C0003864 
+AskAPatient.fold-1.test,68962001,Myalgia,muscle pain,C0231528,C0231528 C1963177,C0231528 
+AskAPatient.fold-1.test,3877011000036101,Lipitor,lipitor,C0593906,C0593906,C0593906 
+AskAPatient.fold-1.test,47933007,Foot pain,Very Painful feet,C0016512 C2016948,C0857248,
+AskAPatient.fold-1.test,57676002,Arthralgia,JOINT PAIN,C0003862,C1963066 C0003862,C0003862 
+AskAPatient.fold-1.test,48500005,Delusional disorder,paranoia,C0236675 C0011251 C0520677,C1456784,
+AskAPatient.fold-1.test,68962001,Myalgia,leg muscle pain,C0231528,C0231528 C1140621 C1963177,C0231528 
+AskAPatient.fold-1.test,79890006,Loss of appetite,loss of appetite,C0003123 C1971624 C0426579,C0003123 C1971624 C0426579,C0003123 C1971624 C0426579 
+AskAPatient.fold-1.test,124054003,Increased cholesterol esters,high cholesterol,C1522133 C3536712 C0595929 C0595930 C0549399 C1291155 C3276464 C1291156 C0020443 C0020445,C1522133 C0020443,C1522133 C0020443 
+AskAPatient.fold-1.test,249938007,Weakness of back,lower back weakness,C3714552,C3714552,C3714552 
+AskAPatient.fold-1.test,10601006,Pain in lower limb,shin pain,C0023222 C0839480,C0241032,
+AskAPatient.fold-1.test,3877011000036101,Lipitor,LIPITOR,C0593906,C0593906,C0593906 
+AskAPatient.fold-1.test,22253000,Pain,pain,C0030193 C1882272 C2598155,C0030193,C0030193 
+AskAPatient.fold-1.test,249917001,Elbow stiff,elbows stiff,C0239272,C0013769,
+AskAPatient.fold-1.test,22253000,Pain,pain,C0030193 C1882272 C2598155,C0030193,C0030193 
+AskAPatient.fold-1.test,16973004,Limping,caused me to limp,C1456822 C0311395 C3669029,C0311395,C0311395 
+AskAPatient.fold-1.test,166830008,Serum cholesterol raised,cholestorol which had jumped from 175 to 220,C0595929,C0560453,
+AskAPatient.fold-1.test,57676002,Arthralgia,joint pain,C0003862,C1963066 C0003862,C0003862 
+AskAPatient.fold-1.test,44695005,Paralysis,paralysis,C0522224,C0522224,C0522224 
+AskAPatient.fold-1.test,248490000,Bloating symptom,bloat,C1291077,,
+AskAPatient.fold-1.test,129565002,Myopathy,muscle problems,C0026848,C0033213 C2081614,
+AskAPatient.fold-1.test,247347003,Discomfort,discomfort in my legs,C0234215 C2364135,C2364135 C1140621 C0234215,C2364135 C0234215 
+AskAPatient.fold-1.test,131148009,Bleeding,Bleeding problems,C0019080,C0033213 C0019080 C2081614,C0019080 
+AskAPatient.fold-1.test,3877011000036101,Lipitor,Lipitor's,C0593906,C0593906,C0593906 
+AskAPatient.fold-1.test,3384011000036100,Arthrotec,arthrotec,C0210355,C0731335 C0731334 C0210355,C0210355 
+AskAPatient.fold-1.test,76948002,Severe pain,extreme pain,C0278140,C0030193,
+AskAPatient.fold-1.test,95655001,Ophthalmic migraine,ocular migranes,C0338481,C0015392,
+AskAPatient.fold-1.test,162397003,Pain in throat,throat pain,C0242429,C2015956 C0242429,C0242429 
+AskAPatient.fold-1.test,162076009,Excessive upper gastrointestinal gas,geneal aches and pains,C0426623 C0426624,C0234238 C0030193,
+AskAPatient.fold-1.test,81680005,Neck pain,neck pain,C0007859 C1963180,C0007859 C1963180,C0007859 C1963180 
+AskAPatient.fold-1.test,286651000,Fragile self-esteem,feeling a fragility,C0564481,C1527305 C0013987,
+AskAPatient.fold-1.test,248096004,Lack of libido,SEX DRIVE GONE,C2981158,C0023618,
+AskAPatient.fold-1.test,3904011000036106,Zocor,Zocor,C0678181,C0678181,C0678181 
+AskAPatient.fold-1.test,7973008,Abnormal vision,visual anomalies,C3665386 C0234622,,
+AskAPatient.fold-1.test,84445001,Joint stiffness,Joint Stiffness,C0427009 C0162298,C0162298,C0162298 
+AskAPatient.fold-1.test,281245003,Musculoskeletal chest pain,Chest muscle pains,C0476280,C0224337 C0030193,
+AskAPatient.fold-1.test,162116003,Urinary frequency,frequent sudden urges to go pee that came out with a force that sprayed everywhere,C0042023,C0233601 C0016533,
+AskAPatient.fold-1.test,13164000,Reduced visual acuity,Vision reduced,C0234632,C2707266 C0042789,
+AskAPatient.fold-1.test,60238002,Muscle twitch,legs twitching,C0231530,C0033774 C1140621 C0231530,C0231530 
+AskAPatient.fold-1.test,39104002,Illness,sick,C0221423,,
+AskAPatient.fold-1.test,56608008,Pain in wrist,wrist pain,C0221785,C0221785,C0221785 
+AskAPatient.fold-1.test,82991003,Generalised aches and pains,Aches and pain from head to toe,C0281856,C0234238 C0152336 C0030193 C0040357 C0018670,
+AskAPatient.fold-1.test,128239009,Injury of nervous system,neurological damage,C0751792,C3845870 C2707261 C0010957,
+AskAPatient.fold-1.test,3877011000036101,Lipitor,Lipitor,C0593906,C0593906,C0593906 
+AskAPatient.fold-1.test,22253000,Pain,pain,C0030193 C1882272 C2598155,C0030193,C0030193 
+AskAPatient.fold-1.test,78860006,Heavy feeling in eyelids,heaviness in eyes,C0234659,C0015392,
+AskAPatient.fold-1.test,247373008,Ankle pain,hurt from my ankles to my hips,C0238656,C0019552,
+AskAPatient.fold-1.test,101000119102,Numbness and tingling sensation of skin,buzzing sensation in leg,C2242996 C0020580 C0028643 C0427116,C1140621 C2229507 C0542538,
+AskAPatient.fold-1.test,4031011000036106,Crestor,Crestor,C1098080,C1098080,C1098080 
+AskAPatient.fold-1.test,3066011000036105,Olmetec,Olmetec(olmesartan),C4042831,,
+AskAPatient.fold-1.test,230690007,Cerebrovascular accident,stroke,C0038454,C0038454,C0038454 
+AskAPatient.fold-1.test,37796009,Migraine,Migranes,C0724401 C0149931,,
+AskAPatient.fold-1.test,21779011000036103,cortisone,cortison shots,C0010137,C0010137 C0020268,C0010137 
+AskAPatient.fold-1.test,267031002,Tiredness symptom,tiredness,C0558486,C0015672 C0332575,
+AskAPatient.fold-1.test,285365001,Pain in toe,pain in their toes,C0241416,C0030193 C0040357,
+AskAPatient.fold-1.test,10601006,Pain in lower limb,pain in leg,C0023222 C0839480,C0023222,C0023222 
+AskAPatient.fold-1.test,3877011000036101,Lipitor,Lipitor,C0593906,C0593906,C0593906 
+AskAPatient.fold-1.test,161873000,Heavy legs,heaviness in the legs,C0581911,C1140621,
+AskAPatient.fold-1.test,56265001,Heart disease,heart disease,C0018799,C2186266 C0018799,C0018799 
+AskAPatient.fold-1.test,4171011000036100,Celebrex,Celebrx,C0719198,,
+AskAPatient.fold-1.test,399269003,Arthropathy,feels like my joints don't want to work,C0022408,C0013987,
+AskAPatient.fold-1.test,202882003,Plantar fasciitis,Severe plantar faciitis,C0149756,C4050465 C0264097 C4050466 C0242693 C1547227 C0442036 C1547231 C1561581,
+AskAPatient.fold-1.test,162076009,Excessive upper gastrointestinal gas,gas,C0426623 C0426624,C0596601,
+AskAPatient.fold-1.test,118932009,Disorder of foot,problems with feet,C0016510,C0033213 C2081614 C0016504,
+AskAPatient.fold-1.test,3877011000036101,Lipitor,Lipitor,C0593906,C0593906,C0593906 
+AskAPatient.fold-1.test,162076009,Excessive upper gastrointestinal gas,gas,C0426623 C0426624,C0596601,
+AskAPatient.fold-1.test,3877011000036101,Lipitor,lipitor,C0593906,C0593906,C0593906 
+AskAPatient.fold-1.test,7011001,Hallucinations,halucinations,C0018524,C0018524,C0018524 
+AskAPatient.fold-1.test,289530006,Vaginal bleeding,vaginal bleeding,C0566967 C2979982,C0566967 C2979982 C0372564,C0566967 C2979982 
+AskAPatient.fold-1.test,299110002,Finger joint locking,locking fingers,C0575878,C0016129 C0947619 C0233660 C0947620,
+AskAPatient.fold-1.test,22253000,Pain,pain,C0030193 C1882272 C2598155,C0030193,C0030193 
+AskAPatient.fold-1.test,68566005,Urinary tract infection,urinery tract infection,C0749975 C0042029 C0877131 C1827894 C0268821 C0235815 C2368866 C0262655 C1611165 C0242147 C1279247,C0275524 C0009450 C0012683 C0729555 C0276041 C3714514 C0035637 C1185740 C0747002,
+AskAPatient.fold-1.test,124054003,Increased cholesterol esters,high cholesterol,C1522133 C3536712 C0595929 C0595930 C0549399 C1291155 C3276464 C1291156 C0020443 C0020445,C1522133 C0020443,C1522133 C0020443 
+AskAPatient.fold-1.test,309521004,Numbness of hand,numbness hands,C0239832,C0020580 C0028643 C0018563,
+AskAPatient.fold-1.test,22253000,Pain,painful,C0030193 C1882272 C2598155,C0030193,C0030193 
+AskAPatient.fold-1.test,247592009,Poor short-term memory,short term memory dysfunction,C0701811 C0025265,C0701811 C0025265 C0277785,C0701811 C0025265 
+AskAPatient.fold-1.test,246975001,Scleral icterus,yellow eyes,C0240962,C0848416,
+AskAPatient.fold-1.test,3877011000036101,Lipitor,Lipitor,C0593906,C0593906,C0593906 
+AskAPatient.fold-1.test,40144003,Morning stiffness - joint,stiff upon waking,C0457086,C0442696,
+AskAPatient.fold-1.test,10601006,Pain in lower limb,legs are killing me,C0023222 C0839480,C1140621,
+AskAPatient.fold-1.test,449917004,Cramp in lower limb,leg cramps,C3266180 C3266179,C0023218,
+AskAPatient.fold-1.test,271587009,Stiffness,finger stiffness,C0427008,C0239596,
+AskAPatient.fold-1.test,271807003,Rash,rash,C0015230,C0015230,C0015230 
+AskAPatient.fold-1.test,301345002,Difficulty sleeping,lousy sleeping at night,C3641752 C0235162,C0424522 C0037313 C4050403,
+AskAPatient.fold-1.test,3877011000036101,Lipitor,lipitor,C0593906,C0593906,C0593906 
+AskAPatient.fold-1.test,84229001,Fatigue,fatique,C0015672 C4050243,,
+AskAPatient.fold-1.test,29542008,Uterine spasm,severe uterine cramping,C0151998,C0026821 C1306232 C0042149 C1446787,
+AskAPatient.fold-1.test,30989003,Knee pain,knee pain,C0231749,C0231749,C0231749 
+AskAPatient.fold-1.test,3877011000036101,Lipitor,lipitor,C0593906,C0593906,C0593906 
+AskAPatient.fold-1.test,4171011000036100,Celebrex,Celebrex,C0719198,C0719198,C0719198 
+AskAPatient.fold-1.test,36630001,Deep pain,deep pain- like gas pains,C0234229,C0476289 C0234229,C0234229 
+AskAPatient.fold-1.test,284252000,Unable to make a fist,can't make a fist,C1299582,,
+AskAPatient.fold-1.test,68962001,Myalgia,deep muscle pain,C0231528,C0231528 C1963177,C0231528 
+AskAPatient.fold-1.test,102480002,Generalised acute body pains,felt like a truck hit me,C0686728,C2919111 C0275626,
+AskAPatient.fold-1.test,3877011000036101,Lipitor,Lipitor,C0593906,C0593906,C0593906 
+AskAPatient.fold-1.test,193462001,Insomnia,insomnia,C0917801 C1950154 C1963237,C0917801 C1950154 C1963237,C0917801 C1950154 C1963237 
+AskAPatient.fold-1.test,3384011000036100,Arthrotec,arthrotec 50,C0210355,C0731334 C0210355,C0210355 
+AskAPatient.fold-1.test,22253000,Pain,so much pain,C0030193 C1882272 C2598155,C0030193,C0030193 
+AskAPatient.fold-1.test,49218002,Hip pain,hip pain,C0030193,C0267028 C0019559 C1963082,
+AskAPatient.fold-1.test,3723001,Arthritis,Arthritis,C3267876 C0003864,C3267876 C0003864,C3267876 C0003864 
+AskAPatient.fold-1.test,22253000,Pain,pain,C0030193 C1882272 C2598155,C0030193,C0030193 
+AskAPatient.fold-1.test,449917004,Cramp in lower limb,muscle spasms in leg,C3266180 C3266179,C1140621 C0037763 C0700153,
+AskAPatient.fold-1.test,161891005,Backache,wicked back pain,C0004604,C0004604 C0677061 C2937302 C1963071,C0004604 
+AskAPatient.fold-1.test,6142004,Influenza,flu,C0021400,C0021400,C0021400 
+AskAPatient.fold-1.test,279039007,Low back pain,lower back pain,C0024031,C2168111 C0024031,C0024031 
+AskAPatient.fold-1.test,271832001,Flatulence, eructation and gas pain,diarreah cramping,C0476289 C1962956 C0016204 C0014724,C0026821 C1446787,
+AskAPatient.fold-1.test,29857009,Chest pain,chest hurt,C0008031 C2926613,C0817096,
+AskAPatient.fold-1.test,161891005,Backache,back pain,C0004604,C0004604 C0677061 C1963071,C0004604 
+AskAPatient.fold-1.test,25064002,Headache,bad headache,C0018681 C2096315,C0018681 C2096315,C0018681 C2096315 
+AskAPatient.fold-1.test,48167000,Amnesia,Memory loss,C0002622 C3824794,C0002622 C0751295,C0002622 
+AskAPatient.fold-1.test,225624000,Panic attack,mild panic attack,C0086769,C0086769,C0086769 
+AskAPatient.fold-1.test,214264003,Lethargy,lethargic,C0023380,C0023380,C0023380 
+AskAPatient.fold-1.test,309538000,Numbness of foot,numbness in my feet,C0239649,C0020580 C0028643 C0016504,
+AskAPatient.fold-1.test,13791008,Asthenia,weakness,C0004093,C3714552,
+AskAPatient.fold-1.test,240015000,Contracture of tendon of ankle region,achilles tendon tightness,C1176460 C2117118 C1261192,C0263970 C0263933 C0920065 C0149846 C0001074,
+AskAPatient.fold-1.test,698065002,Acid reflux,acid reflux,C0017168,C0017168,C0017168 
+AskAPatient.fold-1.test,57676002,Arthralgia,joint pain,C0003862,C1963066 C0003862,C0003862 
+AskAPatient.fold-1.test,57676002,Arthralgia,sore joints,C0003862,C0234233,
+AskAPatient.fold-1.test,37567005,Acenaesthesia,my sense of well being has taken a sudden decline,C0233404,C3665438,
+AskAPatient.fold-1.test,47933007,Foot pain,feet hurt,C0016512 C2016948,C0016504,
+AskAPatient.fold-1.test,238131007,Overweight,overweight,C0497406,C0497406,C0497406 
+AskAPatient.fold-1.test,3877011000036101,Lipitor,Lipitor (atorvastatin),C0593906,C0286651 C0593906,C0593906 
+AskAPatient.fold-1.test,309537005,Numbness of lower limb,numbness in both legs,C0587055 C2128237,C0020580 C0028643 C1140621,
+AskAPatient.fold-1.test,282145008,Unable to walk,unable to walk,C0560046,C0560046,C0560046 
+AskAPatient.fold-1.test,12063002,Rectal haemorrhage,rectal bleeding,C0267596 C0158951,C0267596 C0018932,C0267596 
+AskAPatient.fold-1.test,95891005,Influenza-like illness,i felt like I always had the flu,C0521839,C0021400,
+AskAPatient.fold-1.test,21238011000036103,oestradiol,Estrace,C1589604 C0337434 C0014912,C0699352,
+AskAPatient.fold-1.test,57676002,Arthralgia,finger joint pain similar to arthritis,C0003862,C0263776 C0003864 C0003862 C0541786 C0016129 C1963066 C0158026 C1405877 C1328469 C0003873,C0003862 
+AskAPatient.fold-1.test,39423001,Stammering,Stuttering,C0038506 C0038131,C0038506,C0038506 
+AskAPatient.fold-1.test,3877011000036101,Lipitor,Lipitor,C0593906,C0593906,C0593906 
+AskAPatient.fold-1.test,57676002,Arthralgia,joint pains,C0003862,C0030193,
+AskAPatient.fold-1.test,44548000,Hyperactive behaviour,hyperactive,C0424295,C0424295,C0424295 
+AskAPatient.fold-1.test,35489007,Depression,depression,C0011570 C1579931 C1999266 C0344315 C0520887 C0011581 C4049644 C2121458 C0812393 C0035143,C0011570 C0429108 C1579931 C1999266 C0344315 C0520887 C0011581 C0429068 C0812393 C4049644 C0035143,C0011570 C1579931 C1999266 C0344315 C0520887 C0011581 C0812393 C4049644 C0035143 
+AskAPatient.fold-1.test,22253000,Pain,pain,C0030193 C1882272 C2598155,C0030193,C0030193 
+AskAPatient.fold-1.test,431416001,Menstrual cramp,menstrual cramps,C0013390,C0013390 C1698508,C0013390 
+AskAPatient.fold-1.test,81680005,Neck pain,neck pain,C0007859 C1963180,C0007859 C1963180,C0007859 C1963180 
+AskAPatient.fold-1.test,13791008,Asthenia,weakness,C0004093,C3714552,
+AskAPatient.fold-1.test,193462001,Insomnia,insomnia,C0917801 C1950154 C1963237,C0917801 C1950154 C1963237,C0917801 C1950154 C1963237 
+AskAPatient.fold-1.test,3298011000036103,Lipex,LIPEX,,,
+AskAPatient.fold-1.test,102556003,Pain in upper limb,pain in arm,C0239377,C0239377,C0239377 
+AskAPatient.fold-1.test,62507009,Pins and needles,finger pins and needles,C0423572,C0016129 C0423572,C0423572 
+AskAPatient.fold-1.test,36031001,Burning feet,heel is hot,C0231772,C0018870,
+AskAPatient.fold-1.test,3877011000036101,Lipitor,lipitor,C0593906,C0593906,C0593906 
+AskAPatient.fold-1.test,84229001,Fatigue,fatigue,C0015672 C4050243,C0015672 C2024893,C0015672 
+AskAPatient.fold-1.test,193462001,Insomnia,insomnia,C0917801 C1950154 C1963237,C0917801 C1950154 C1963237,C0917801 C1950154 C1963237 
+AskAPatient.fold-1.test,26544005,Muscle weakness,No strength,C0030552 C0151786 C1834451,,
+AskAPatient.fold-1.test,6206011000036109,Lipitor 40 mg tablet: film-coated,Lipitor 40 mg,C0593906,C0593906,C0593906 
+AskAPatient.fold-1.test,22253000,Pain,pains,C0030193 C1882272 C2598155,C0030193,C0030193 
+AskAPatient.fold-1.test,448589005,Arthritis of hand,severe swolen/inflamation of the fingers/hand,C0263776 C2239149 C0409208 C3697769,C1306232 C0947620 C0021368 C0016129 C0947619 C0018563,
+AskAPatient.fold-1.test,3877011000036101,Lipitor,Lipitor,C0593906,C0593906,C0593906 
+AskAPatient.fold-1.test,162059005,Upset stomach,sick to my stomach,C0235309,C0038351,
+AskAPatient.fold-1.test,10601006,Pain in lower limb,lower legs hurt,C0023222 C0839480,C0230446 C1140621,
+AskAPatient.fold-1.test,3877011000036101,Lipitor,Lipitor,C0593906,C0593906,C0593906 
+AskAPatient.fold-1.test,80182007,Irregular menstruation,Timing off for a true period,C0156404,C0025344,
+AskAPatient.fold-1.test,228158008,Walking disability,can hardly walk,C0311394,,
+AskAPatient.fold-1.test,309087008,Paraesthesia of foot,Toe tinglingling,C0239652,C0064153 C0877495 C0235050 C0850630 C2116331 C2219736 C0542238 C2116338 C0877462 C0877487 C0877502 C2116460 C2242996 C0040357 C0343421 C2116364 C1281589 C2116385,
+AskAPatient.fold-1.test,22298006,Myocardial infarction,Heart attack,C0455406 C3845502 C0948369 C0027051 C0155668 C0155626 C2926063 C3810814 C0428953,C0027051,C0027051 
+AskAPatient.fold-1.test,68962001,Myalgia,muscle pain,C0231528,C0231528 C1963177,C0231528 
+AskAPatient.fold-1.test,3877011000036101,Lipitor,LIPITOR,C0593906,C0593906,C0593906 
+AskAPatient.fold-1.test,44077006,Numbness,numb,C0020580 C0028643,,
+AskAPatient.fold-1.test,3877011000036101,Lipitor,Lipitor,C0593906,C0593906,C0593906 
+AskAPatient.fold-1.test,84229001,Fatigue,feeling exausted,C0015672 C4050243,C1527305 C0013987,
+AskAPatient.fold-1.test,301345002,Difficulty sleeping,hard time sleeping,C3641752 C0235162,C0424522 C0037313 C4050403,
+AskAPatient.fold-1.test,62315008,Diarrhoea,diarhea,C0011991 C0474498,,
+AskAPatient.fold-1.test,289903006,Menopause present,menopause,C0567312,C0025320 C0993589 C0567312 C0206158,C0567312 
+AskAPatient.fold-1.test,25064002,Headache,Headaches,C0018681 C2096315,C0018681,C0018681 
+AskAPatient.fold-1.test,386807006,Memory impairment,couldn't remember where I left my dog 10 minutes before,C1636063 C1963167 C0233794,C2097312 C3845579 C0034770,
+AskAPatient.fold-1.test,22253000,Pain,pain,C0030193 C1882272 C2598155,C0030193,C0030193 
+AskAPatient.fold-1.test,3877011000036101,Lipitor,Lipitor,C0593906,C0593906,C0593906 
+AskAPatient.fold-1.test,240131006,Rhabdomyolysis,rhabdomyolysis,C0035410,C0035410,C0035410 
+AskAPatient.fold-1.test,22298006,Myocardial infarction,heart attack,C0455406 C3845502 C0948369 C0027051 C0155668 C0155626 C2926063 C3810814 C0428953,C0027051,C0027051 
+AskAPatient.fold-1.test,28551000168108,Voltaren,voltaren,C0699958 C0592264,C0699958 C0592264,C0699958 C0592264 
+AskAPatient.fold-1.test,419723007,Mentally dull,like Im in a fog all the time,C1621860,,
+AskAPatient.fold-1.test,76948002,Severe pain,severe muscle pain,C0278140,C3862404,
+AskAPatient.fold-1.test,68962001,Myalgia,muscle pain,C0231528,C0231528 C1963177,C0231528 
+AskAPatient.fold-1.test,84229001,Fatigue,fatigue,C0015672 C4050243,C0015672 C2024893,C0015672 
+AskAPatient.fold-1.test,95677002,Disorder of vision,severe vision problems,C0042790,C0033213 C2081614 C0042789 C1306232,
+AskAPatient.fold-1.test,193462001,Insomnia,Insomina,C0917801 C1950154 C1963237,,
+AskAPatient.fold-1.test,30989003,Knee pain,joint pain (knees),C0231749,C1963066 C0022742 C0003862,
+AskAPatient.fold-1.test,26544005,Muscle weakness,went down muscles,C0030552 C0151786 C1834451,,
+AskAPatient.fold-1.test,72405004,Increased appetite,appetite increase,C3176514 C0232461 C0232462,C0232461,C0232461 
+AskAPatient.fold-1.test,271599002,Feeling content,mellows me out,C0423896,,
+AskAPatient.fold-1.test,3877011000036101,Lipitor,Lipitor,C0593906,C0593906,C0593906 
+AskAPatient.fold-1.test,3877011000036101,Lipitor,Lipitor,C0593906,C0593906,C0593906 
+AskAPatient.fold-1.test,102572006,Oedema of lower extremity,severe edema of lower extremities,C0239340 C1275454,C0239340 C1306232 C0745889 C1275454,C0239340 C1275454 
+AskAPatient.fold-1.test,230690007,Cerebrovascular accident,stroke,C0038454,C0038454,C0038454 
+AskAPatient.fold-1.test,10601006,Pain in lower limb,leg pain,C0023222 C0839480,C0023222 C0839480,C0023222 C0839480 
+AskAPatient.fold-1.test,429783005,Paraesthesia of lower extremity,lost most of my feeling in feet, legs and hands,C0587058 C0948992,C1527305 C0013987 C1140621 C0018563 C0016504,
+AskAPatient.fold-1.test,42984000,Night sweats,night sweats,C0028081,C0028081,C0028081 
+AskAPatient.fold-1.test,183202003,Shin splint,felt like shin splints,C1696469 C0242094,C1696469 C0242094,C1696469 C0242094 
+AskAPatient.fold-1.test,271681002,Stomach ache,stomach pain,C0235309 C0221512,C1963242 C0221512,C0221512 
+AskAPatient.fold-1.test,45326000,Shoulder pain,aching pain across my shoulders,C0423670 C0037011,C0234238 C0037004,
+AskAPatient.fold-1.test,3877011000036101,Lipitor,lipitor,C0593906,C0593906,C0593906 
+AskAPatient.fold-1.test,28551000168108,Voltaren,Voltaren,C0699958 C0592264,C0699958 C0592264,C0699958 C0592264 
+AskAPatient.fold-1.test,28743005,Productive cough,productive cough,C0850149 C0239134,C0850149 C0239134,C0850149 C0239134 
+AskAPatient.fold-1.test,62315008,Diarrhoea,diarrhea,C0011991 C0474498,C1963091 C0011991,C0011991 
+AskAPatient.fold-1.test,116289008,Abdominal bloating,bloated stomach,C1291077,C0038351,
+AskAPatient.fold-1.test,282195009,Difficulty walking up stairs,difficulty walking up stairs,C0560070 C0239067,C0311394,
+AskAPatient.fold-1.test,68962001,Myalgia,muscle pain,C0231528,C0231528 C1963177,C0231528 
+AskAPatient.fold-1.test,397803000,Erectile dysfunction,impotence,C1961100 C0242350,C2187990 C0242350 C1948084,C0242350 
+AskAPatient.fold-1.test,47933007,Foot pain,foot pain,C0016512 C2016948,C0016512 C2016948,C0016512 C2016948 
+AskAPatient.fold-1.test,69896004,Rheumatoid arthritis,Rhuematoid Arthritis,C0264993 C0409639 C0221614 C0003873 C0455571 C0740223 C0409637,C3267876 C0003864,
+AskAPatient.fold-1.test,282145008,Unable to walk,inability to walk,C0560046,C0560046 C0559964,C0560046 
+AskAPatient.fold-1.test,26079004,Tremor,shaky,C0040822 C1963252,C0392703,
+AskAPatient.fold-1.test,246636008,Blurred vision - hazy,blurred vision,C0344232,C0344232,C0344232 
+AskAPatient.fold-1.test,25064002,Headache,headache,C0018681 C2096315,C0018681 C2096315,C0018681 C2096315 
+AskAPatient.fold-1.test,61372001,Aggression,rage,C1457883 C0001807 C4050402,C0034634,
+AskAPatient.fold-1.test,63102001,Visual disturbance,at times felt that I'm going blind,C0547030 C0029844 C0348571,C0456909,
+AskAPatient.fold-1.test,162315007,Morbid thoughts,obsessively focused on morbid,C0555358,,
+AskAPatient.fold-1.test,56265001,Heart disease,coronary disease,C0018799,C1956346 C0010068,
+AskAPatient.fold-1.test,76948002,Severe pain,severe pain in left shoulder,,C0278140,C1288640 C0524469 C0278140,C0278140 
+AskAPatient.fold-1.test,404640003,Dizziness,DIZZINESS,C0012833 C1963093 C4032495 C0042571,C0012833 C0042571 C1963093,C0012833 C1963093 C0042571 
+AskAPatient.fold-1.test,3877011000036101,Lipitor,Lipitor,C0593906,C0593906,C0593906 
+AskAPatient.fold-1.test,45352006,Spasm,spasms,C0026821 C0037763,C0037763,C0037763 
+AskAPatient.fold-1.test,449917004,Cramp in lower limb,Cramping of the leg muscles,C3266180 C3266179,C0026821 C1446787 C0224456,
+AskAPatient.fold-1.test,193462001,Insomnia,INSOMNIA,C0917801 C1950154 C1963237,C0917801 C1950154 C1963237,C0917801 C1950154 C1963237 
+AskAPatient.fold-1.test,279039007,Low back pain,lower back pain,C0024031,C2168111 C0024031,C0024031 
+AskAPatient.fold-1.test,228158008,Walking disability,couldn't walk straight,C0311394,,
+AskAPatient.fold-1.test,53057004,Hand pain,Hands sore,C0239833,C0234233 C0018563,
+AskAPatient.fold-1.test,95891005,Influenza-like illness,flu-symptoms,C0521839,C0021400 C1457887,
+AskAPatient.fold-1.test,76948002,Severe pain,Severe pain in right heel,C0278140,C4050465 C0264097 C4050466 C2032418 C1547231 C1547227 C1561581,
+AskAPatient.fold-1.test,70270011000036104,ibuprofen 5% gel,ibruprofen gel,C0020740 C2714681 C3491417,,
+AskAPatient.fold-1.test,3877011000036101,Lipitor,Lipitor,C0593906,C0593906,C0593906 
+AskAPatient.fold-1.test,3877011000036101,Lipitor,Lipitor,C0593906,C0593906,C0593906 
+AskAPatient.fold-1.test,432352001,Increased creatine kinase level,HIGH CPK,C1301904 C1834662 C0151576 C1275731 C1275725 C2316757 C0750863 C1301804,,
+AskAPatient.fold-1.test,248223005,Feeling faint,I felt like I was going to pass out,C0581879,,
+AskAPatient.fold-1.test,13791008,Asthenia,weakness,C0004093,C3714552,
+AskAPatient.fold-1.test,45326000,Shoulder pain,very bad pains in shoulders,C0423670 C0037011,C0030193 C0037004 C3840984,
+AskAPatient.fold-1.test,429513001,Rupture of Achilles tendon,tore my right Achilles tendon just simply taking off from a sprinters stance,C0263970 C0158347 C3840211,C0263933 C0015726 C0001074 C0423899 C0263970 C0920065 C1510508 C1261259,C0263970 
+AskAPatient.fold-1.test,250069006,Muscle tension,lower back is also tight,C0427195 C0458242,,
+AskAPatient.fold-1.test,80515008,Hepatomegaly,Enlarged liver,C0019209,C0019209,C0019209 
+AskAPatient.fold-1.test,162076009,Excessive upper gastrointestinal gas,Alot of gas,C0426623 C0426624,C0596601,
+AskAPatient.fold-1.test,22253000,Pain,pain,C0030193 C1882272 C2598155,C0030193,C0030193 
+AskAPatient.fold-1.test,3877011000036101,Lipitor,LIPITOR,C0593906,C0593906,C0593906 
+AskAPatient.fold-1.test,85828009,Autoimmune disease,auto immune diseases,C0004364 C0577642 C0687719,C0012634,
+AskAPatient.fold-1.test,35489007,Depression,depressed,C0011570 C1579931 C1999266 C0344315 C0520887 C0011581 C4049644 C2121458 C0812393 C0035143,C0520887 C0344315,C0344315 C0520887 
+AskAPatient.fold-1.test,48167000,Amnesia,memory loss,C0002622 C3824794,C0002622 C0751295,C0002622 
+AskAPatient.fold-1.test,25064002,Headache,Headaches,C0018681 C2096315,C0018681,C0018681 
+AskAPatient.fold-1.test,282299006,Unable to balance,loss of balance,C0542274 C0241981 C0560187,C0241981,C0241981 
+AskAPatient.fold-1.test,13791008,Asthenia,extremely fatigued,C0004093,C0015672 C2024893,
+AskAPatient.fold-1.test,3877011000036101,Lipitor,Lipitor,C0593906,C0593906,C0593906 
+AskAPatient.fold-1.test,2940011000036100,Premarin,Premarin,C0699710,C0699710,C0699710 
+AskAPatient.fold-1.test,248132003,Craving for food or drink,food cravings,C0424430,C3540798,
+AskAPatient.fold-1.test,10601006,Pain in lower limb,pain in the legs,C0023222 C0839480,C0030193 C1140621,
+AskAPatient.fold-1.test,404640003,Dizziness,Dizzy,C0012833 C1963093 C4032495 C0042571,C0012833,C0012833 
+AskAPatient.fold-1.test,22253000,Pain,pain,C0030193 C1882272 C2598155,C0030193,C0030193 
+AskAPatient.fold-1.test,3904011000036106,Zocor,Zocor,C0678181,C0678181,C0678181 
+AskAPatient.fold-1.test,419723007,Mentally dull,mental malaise,C1621860,C0229992 C0028977 C0231218,
+AskAPatient.fold-1.test,363346000,Malignant neoplastic disease,tumor,C1306459 C0006826,C0027651,
+AskAPatient.fold-1.test,301345002,Difficulty sleeping,trouble sleeping,C3641752 C0235162,C0424522 C0037313 C4050403,
+AskAPatient.fold-1.test,166830008,Serum cholesterol raised,cholesterol level sky high,C0595929,C1522133 C0392885 C0201950 C0856966 C1287371 C0519155 C0519154 C0587184 C0428466,
+AskAPatient.fold-1.test,76948002,Severe pain,severe muscle pain,C0278140,C3862404,
+AskAPatient.fold-1.test,3877011000036101,Lipitor,Lipitor,C0593906,C0593906,C0593906 
+AskAPatient.fold-1.test,35489007,Depression,Depression,C0011570 C1579931 C1999266 C0344315 C0520887 C0011581 C4049644 C2121458 C0812393 C0035143,C0011570 C1579931 C1999266 C0344315 C0520887 C0011581 C4049644 C2121458 C0812393 C0035143,C0011570 C1579931 C1999266 C0344315 C0520887 C0011581 C4049644 C2121458 C0812393 C0035143 
+AskAPatient.fold-1.test,278040002,Loss of hair,hair loss,C0002170,C0002170,C0002170 
+AskAPatient.fold-1.test,3527011000036101,Xanax,zanax,C0699034,,
+AskAPatient.fold-1.test,228158008,Walking disability,couldn't walk,C0311394,,
+AskAPatient.fold-1.test,30989003,Knee pain,PAIN IN MY KNEES,C0231749,C0030193 C0022742,
+AskAPatient.fold-1.test,309774006,Weakness of limb,weakness in my legs,C1836296 C0587246,C3714552 C1140621,
+AskAPatient.fold-1.test,361137007,Irregular heart beat,irrecular heartbeat,C0237314 C0003811,C0237314,C0237314 
+AskAPatient.fold-1.test,48694002,Anxiety,anxiety,C4050613 C0860603 C0003467 C0003469 C1963064,C0003467 C0860603,C0860603 C0003467 
+AskAPatient.fold-1.test,21417011000036105,fenofibrate,Tricor,C0033228,C0723893,
+AskAPatient.fold-1.test,13791008,Asthenia,week,C0004093,C1561540,
+AskAPatient.fold-1.test,3877011000036101,Lipitor,lipitor,C0593906,C0593906,C0593906 
+AskAPatient.fold-1.test,248255005,Cannot sleep at all,not sleeping,C0424522 C0037313 C0013144,C0424522 C0037313 C4050403,C0424522 C0037313 
+AskAPatient.fold-1.test,3877011000036101,Lipitor,LIPITOR,C0593906,C0593906,C0593906 
+AskAPatient.fold-1.test,3877011000036101,Lipitor,Lipitor,C0593906,C0593906,C0593906 
+AskAPatient.fold-1.test,271681002,Stomach ache,stomach pain,C0235309 C0221512,C1963242 C0221512,C0221512 
+AskAPatient.fold-1.test,26079004,Tremor,shaking,C0040822 C1963252,C0040822,C0040822 
+AskAPatient.fold-1.test,35489007,Depression,depression,C0011570 C1579931 C1999266 C0344315 C0520887 C0011581 C4049644 C2121458 C0812393 C0035143,C0011570 C0429108 C1579931 C1999266 C0344315 C0520887 C0011581 C0429068 C0812393 C4049644 C0035143,C0011570 C1579931 C1999266 C0344315 C0520887 C0011581 C0812393 C4049644 C0035143 
+AskAPatient.fold-1.test,53057004,Hand pain,aches in hands,C0239833,C0234238 C0018563,
+AskAPatient.fold-1.test,84229001,Fatigue,fatigue,C0015672 C4050243,C0015672 C2024893,C0015672 
+AskAPatient.fold-1.test,21496011000036106,prednisone,Predisone,C0032952 C0065967,,
+AskAPatient.fold-1.test,57676002,Arthralgia,JOINT PAIN,C0003862,C1963066 C0003862,C0003862 
+AskAPatient.fold-1.test,16386004,Dry skin,SUPER dry skin,C0151908 C1963094,C0151908 C1963094,C0151908 C1963094 
+AskAPatient.fold-1.test,162076009,Excessive upper gastrointestinal gas,general feeling of malais,C0426623 C0426624,C1527305 C0013987 C0231218,
+AskAPatient.fold-1.test,449917004,Cramp in lower limb,cramping in legs,C3266180 C3266179,C0026821 C1140621 C1446787,
+AskAPatient.fold-1.test,47933007,Foot pain,pain in foot,C0016512 C2016948,C0016512,C0016512 
+AskAPatient.fold-1.test,21565011000036108,ezetimibe + simvastatin,Vytorin,C0074554 C1142985,C1527845,
+AskAPatient.fold-1.test,288226003,Myalgia/myositis - shoulder,muscle pain in shoulders,C0565577,C0231528 C0037004 C1963177,
+AskAPatient.fold-1.test,35489007,Depression,depression,C0011570 C1579931 C1999266 C0344315 C0520887 C0011581 C4049644 C2121458 C0812393 C0035143,C0011570 C0429108 C1579931 C1999266 C0344315 C0520887 C0011581 C0429068 C0812393 C4049644 C0035143,C0011570 C1579931 C1999266 C0344315 C0520887 C0011581 C0812393 C4049644 C0035143 
+AskAPatient.fold-1.test,3877011000036101,Lipitor,Lipitor,C0593906,C0593906,C0593906 
+AskAPatient.fold-1.test,429661002,Neuroma of foot,neuroma in the right foot,C1998050,C0230460 C1279998 C0598833 C0027858,
+AskAPatient.fold-1.test,26544005,Muscle weakness,muscle weakness in back,C0030552 C0151786 C1834451,C0240479 C2673994 C0151786 C0150841 C0586738 C0587246 C0030552 C1834451 C1168241 C0239831,C0151786 C0030552 C1834451 
+AskAPatient.fold-1.test,22298006,Myocardial infarction,heart attack,C0455406 C3845502 C0948369 C0027051 C0155668 C0155626 C2926063 C3810814 C0428953,C0027051,C0027051 
+AskAPatient.fold-1.test,26544005,Muscle weakness,decrease in overall strength,C0030552 C0151786 C1834451,C2238197,
+AskAPatient.fold-1.test,2922011000036103,Fosamax,Fosamax 35,C0376569,C0376569,C0376569 
+AskAPatient.fold-1.test,247592009,Poor short-term memory,Terrible short term memory problems,C0701811 C0025265,C0701811 C0033213 C0025265 C2081614,C0701811 C0025265 
+AskAPatient.fold-1.test,84229001,Fatigue,fatigue,C0015672 C4050243,C0015672 C2024893,C0015672 
+AskAPatient.fold-1.test,162076009,Excessive upper gastrointestinal gas,General fatigue,C0426623 C0426624,C0015672 C3812897 C3891294 C2024893,
+AskAPatient.fold-1.test,102556003,Pain in upper limb,pain in my arms,C0239377,C0030193 C0446516,
+AskAPatient.fold-1.test,21288011000036105,diclofenac,Cataflam,C0012091,C0719187,
+AskAPatient.fold-1.test,84229001,Fatigue,horrible fatigue,C0015672 C4050243,C0015672 C2024893,C0015672 
+AskAPatient.fold-1.test,73595000,Stress,stress,C0038435 C0723460,C0038435,C0038435 
+AskAPatient.fold-1.test,283416005,Cut of hand,cuts on my hands,C0561290,C0000925 C0018563,
+AskAPatient.fold-1.test,47933007,Foot pain,feet pains,C0016512 C2016948,C0030193 C0016504,
+AskAPatient.fold-1.test,68962001,Myalgia,muscle pain,C0231528,C0231528 C1963177,C0231528 
+AskAPatient.fold-1.test,3877011000036101,Lipitor,Lipitor,C0593906,C0593906,C0593906 
+AskAPatient.fold-1.test,3877011000036101,Lipitor,lipitor,C0593906,C0593906,C0593906 
+AskAPatient.fold-1.test,309774006,Weakness of limb,weakness in legs,C1836296 C0587246,C3714552 C1140621,
+AskAPatient.fold-1.test,84229001,Fatigue,fatigue,C0015672 C4050243,C0015672 C2024893,C0015672 
+AskAPatient.fold-1.test,76948002,Severe pain,horrible pain in left knee,C0278140,C0030193 C1279572 C0230432,
+AskAPatient.fold-1.test,57676002,Arthralgia,Joint Pain,C0003862,C0003862,C0003862 
+AskAPatient.fold-1.test,22325002,Abnormal gait,my gait was like someone who could barely walk,C0231683 C0575081,C0016928,
+AskAPatient.fold-1.test,271807003,Rash,massive triangular rash on my forehead,C0015230,C0015230 C0016540,C0015230 
+AskAPatient.fold-1.test,247592009,Poor short-term memory,short term memory loss,C0701811 C0025265,C0701811 C0025265,C0701811 C0025265 
+AskAPatient.fold-1.test,3723001,Arthritis,arthristis,C3267876 C0003864,,
+AskAPatient.fold-1.test,309774006,Weakness of limb,weakness in both legs,C1836296 C0587246,C3714552 C1140621,
+AskAPatient.fold-1.test,3877011000036101,Lipitor,Lipitor,C0593906,C0593906,C0593906 
+AskAPatient.fold-1.test,271587009,Stiffness,stiffness,C0427008,C0427008,C0427008 
+AskAPatient.fold-1.test,277521002,Loss of motivation,lack of motivation,C0456814,C0456814,C0456814 
+AskAPatient.fold-1.test,124054003,Increased cholesterol esters,high cholesterol,C1522133 C3536712 C0595929 C0595930 C0549399 C1291155 C3276464 C1291156 C0020443 C0020445,C1522133 C0020443,C1522133 C0020443 
+AskAPatient.fold-1.test,36630001,Deep pain,deep pain in my pelvis and down my legs,C0234229,C1140621 C0234229 C0030797,C0234229 
+AskAPatient.fold-1.test,22253000,Pain,pain,C0030193 C1882272 C2598155,C0030193,C0030193 
+AskAPatient.fold-1.test,84229001,Fatigue,Fatigue,C0015672 C4050243,C0015672 C4050243,C0015672 C4050243 
+AskAPatient.fold-1.test,271587009,Stiffness,stiffness,C0427008,C0427008,C0427008 
+AskAPatient.fold-1.test,3877011000036101,Lipitor,Lipitor,C0593906,C0593906,C0593906 
+AskAPatient.fold-1.test,62507009,Pins and needles,PINS AND NEEDLES,C0423572,C0423572,C0423572 
+AskAPatient.fold-1.test,40196000,Mild pain,constant low level pain,C0278138,C0030193 C1550472 C1720529,
+AskAPatient.fold-1.test,90673000,Burning sensation,burning sensations,C0234655 C0578504 C0241057 C0241413 C0085624,C0857336 C2239188 C0241660 C0241057 C0241413 C0239814 C0234655 C0578504 C0085624,C0241057 C0241413 C0234655 C0578504 C0085624 
+AskAPatient.fold-1.test,86044005,Amyotrophic lateral sclerosis,ALS,C3468101 C1836076 C1833662 C3468110 C3468109 C3468111 C2931786 C0002736 C2317804 C3468100 C3468104 C2317803 C3468106 C3280587 C3275459 C3468112 C3553719 C3468103 C3468102 C3468108 C3715155 C3468105 C3468113 C1862939 C3468107 C3715156 C3468114,,
+AskAPatient.fold-1.test,3877011000036101,Lipitor,Lipitor,C0593906,C0593906,C0593906 
+AskAPatient.fold-1.test,63102001,Visual disturbance,visual deficits,C0547030 C0029844 C0348571,C3665347,
+AskAPatient.fold-1.test,61462000,Malaria,malaria,C0024530 C3541306,C0206255 C0024530 C1744563,C0024530 
+AskAPatient.fold-1.test,55300003,Muscle cramp,body cramps,C0026821,C0026821 C0152338,C0026821 
+AskAPatient.fold-1.test,102943000,Personality change,changed my personality,C0240735,C0442739 C0031208 C0003944,
+AskAPatient.fold-1.test,22253000,Pain,pain,C0030193 C1882272 C2598155,C0030193,C0030193 
+AskAPatient.fold-1.test,24199005,Feeling agitated,aggitation,C0085631,,
+AskAPatient.fold-1.test,54586004,Lower abdominal pain,sharp unbearable cramping pains in lower gut,C2910388 C0232495 C0232492,C0699819 C0458254,
+AskAPatient.fold-1.test,3877011000036101,Lipitor,Lipitor,C0593906,C0593906,C0593906 
+AskAPatient.fold-1.test,22253000,Pain,pain,C0030193 C1882272 C2598155,C0030193,C0030193 
+AskAPatient.fold-1.test,213257006,Generally unwell,extremely sick,C0231218,,
+AskAPatient.fold-1.test,26544005,Muscle weakness,muscle weakness,C0030552 C0151786 C1834451,C0240479 C2673994 C0151786 C0150841 C0586738 C0587246 C0030552 C1834451 C1168241 C0239831,C0151786 C0030552 C1834451 
+AskAPatient.fold-1.test,366979004,Depressed mood,low mood,C0344315,C2237119 C1550472 C0026516,
+AskAPatient.fold-1.test,73211009,Diabetes mellitus,diabetes,C1313937 C0011849,C0011860 C0011849 C0011847,C0011849 
+AskAPatient.fold-1.test,193462001,Insomnia,Insomnia,C0917801 C1950154 C1963237,C0917801 C1950154 C1963237,C0917801 C1950154 C1963237 
+AskAPatient.fold-1.test,45352006,Spasm,spasms,C0026821 C0037763,C0037763,C0037763 
+AskAPatient.fold-1.test,87715008,Aptyalism,Extremely dry mouth,C0043352 C0037036,C0043352,C0043352 
+AskAPatient.fold-1.test,3877011000036101,Lipitor,lipitor,C0593906,C0593906,C0593906 
+AskAPatient.fold-1.test,426206001,Constant pain,extreme constant pain,C1960160,C0030193 C1720529,
+AskAPatient.fold-1.test,3877011000036101,Lipitor,Lipitor,C0593906,C0593906,C0593906 
