@@ -248,7 +248,7 @@ AskAPatient.fold-2.test,55300003,Muscle cramp,cramps,C0026821,C0026821,C0026821
 AskAPatient.fold-2.test,95673003,Paraesthesia of upper limb,left shoulder tingles,C0587058,C1288640 C0524469,
 AskAPatient.fold-2.test,49049000,Parkinson's disease,parkinson's disease,C4069171 C0030567 C3248637,C0030567 C0018609 C0012634,C0030567 
 AskAPatient.fold-2.test,426206001,Constant pain,constant pain,C1960160,C0030193 C1720529,
-AskAPatient.fold-2.test,225609009,Stiff legs,left leg, below the knee, experienced stiffness,C0558192,C0427008 C0022742 C0237607 C3845885 C1279606 C0230443 C0596545,
+AskAPatient.fold-2.test,225609009,Stiff legs,left leg below the knee, experienced stiffness,C0558192,C0427008 C0022742 C0237607 C3845885 C1279606 C0230443 C0596545,
 AskAPatient.fold-2.test,278040002,Loss of hair,hair was falling off,C0002170,C0085639 C0018494,
 AskAPatient.fold-2.test,267031002,Tiredness symptom,TIREDNESS,C0558486,C0015672 C0332575,
 AskAPatient.fold-2.test,13791008,Asthenia,weakness,C0004093,C3714552,
