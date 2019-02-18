@@ -3648,7 +3648,7 @@ AskAPatient.fold-4.test,8510008,Reduced mobility,Could barely move,C0700572 C047
 AskAPatient.fold-4.test,162059005,Upset stomach,upset my stomach,C0235309,C0038351 C3887804,
 AskAPatient.fold-4.test,3877011000036101,Lipitor,Lipitor,C0593906,C0593906,C0593906 
 AskAPatient.fold-4.test,3877011000036101,Lipitor,Lipitor,C0593906,C0593906,C0593906 
-AskAPatient.fold-4.test,271832001,Flatulence, eructation and gas pain,gas pains in back,C0476289 C1962956 C0016204 C0014724,C0476289,C0476289 
+AskAPatient.fold-4.test,271832001,Flatulence eructation and gas pain,gas pains in back,C0476289 C1962956 C0016204 C0014724,C0476289,C0476289 
 AskAPatient.fold-4.test,22253000,Pain,pain,C0030193 C1882272 C2598155,C0030193,C0030193 
 AskAPatient.fold-4.test,26171000168109,Lasix,lasiks,C0699992,C0752094,
 AskAPatient.fold-4.test,13791008,Asthenia,weakness,C0004093,C3714552,
