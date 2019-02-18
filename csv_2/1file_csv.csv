@@ -278,7 +278,7 @@ AskAPatient.fold-1.test,3877011000036101,Lipitor,Lipitor,C0593906,C0593906,C0593
 AskAPatient.fold-1.test,102572006,Oedema of lower extremity,severe edema of lower extremities,C0239340 C1275454,C0239340 C1306232 C0745889 C1275454,C0239340 C1275454 
 AskAPatient.fold-1.test,230690007,Cerebrovascular accident,stroke,C0038454,C0038454,C0038454 
 AskAPatient.fold-1.test,10601006,Pain in lower limb,leg pain,C0023222 C0839480,C0023222 C0839480,C0023222 C0839480 
-AskAPatient.fold-1.test,429783005,Paraesthesia of lower extremity,lost most of my feeling in feet, legs and hands,C0587058 C0948992,C1527305 C0013987 C1140621 C0018563 C0016504,
+AskAPatient.fold-1.test,429783005,Paraesthesia of lower extremity,lost most of my feeling in feet legs and hands,C0587058 C0948992,C1527305 C0013987 C1140621 C0018563 C0016504,
 AskAPatient.fold-1.test,42984000,Night sweats,night sweats,C0028081,C0028081,C0028081 
 AskAPatient.fold-1.test,183202003,Shin splint,felt like shin splints,C1696469 C0242094,C1696469 C0242094,C1696469 C0242094 
 AskAPatient.fold-1.test,271681002,Stomach ache,stomach pain,C0235309 C0221512,C1963242 C0221512,C0221512 
