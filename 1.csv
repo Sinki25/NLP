@@ -3755,7 +3755,7 @@ AskAPatient.fold-4.test,102498003,Agony,agony,C0521992,C0521992,C0521992
 AskAPatient.fold-4.test,309557009,Numbness of face,numbness face,C0239511,C0239511,C0239511 
 AskAPatient.fold-4.test,249940002,Shoulder girdle weakness,weakness in shoulders,C0427063,C3714552 C0037004,
 AskAPatient.fold-4.test,49049000,Parkinson's disease,parkinson's,C4069171 C0030567 C3248637,C0030567,C0030567 
-AskAPatient.fold-4.test,271835004,Abdominal distension, gaseous,belly blew up,C0235698,,
+AskAPatient.fold-4.test,271835004,Abdominal distension gaseous,belly blew up,C0235698,,
 AskAPatient.fold-4.test,228158008,Walking disability,can hardly walk,C0311394,,
 AskAPatient.fold-4.test,54150009,Upper respiratory tract infection,upper respiratory infections,C0149725 C0852135 C1699499 C0041912 C0852110 C0851639 C1442786 C0877266 C0851631 C0581381 C1579506 C0264222 C0339916 C0238990 C1261958 C0035243,C0149725 C2169609 C0041912 C0810016 C0009443 C0264222 C2231143 C2133965 C2074970 C0035243 C0581381,C0149725 C0041912 C0581381 C0264222 C0035243 
 AskAPatient.fold-4.test,3877011000036101,Lipitor,lipitor,C0593906,C0593906,C0593906 
