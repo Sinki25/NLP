@@ -81,7 +81,7 @@ AskAPatient.fold-0.test,76948002,Severe pain,Severe hip & feet pain,C0278140,C40
 AskAPatient.fold-0.test,3877011000036101,Lipitor,Lipitor,C0593906,C0593906,C0593906 
 AskAPatient.fold-0.test,69791001,Increased venous pressure,high BP,C0232115 C0232116,,
 AskAPatient.fold-0.test,55300003,Muscle cramp,cramping in back,C0026821,C0026821 C1446787,C0026821 
-AskAPatient.fold-0.test,124055002,Decreased cholesterol esters,good cholesterol is whacked, lowered,C3536712 C0151718 C1536916 C1291155 C0151691 C1291156 C3276464 C3808305,C0518017,
+AskAPatient.fold-0.test,124055002,Decreased cholesterol esters,good cholesterol is whacked lowered,C3536712 C0151718 C1536916 C1291155 C0151691 C1291156 C3276464 C3808305,C0518017,
 AskAPatient.fold-0.test,4171011000036100,Celebrex,celebrex,C0719198,C0719198,C0719198 
 AskAPatient.fold-0.test,62315008,Diarrhoea,diarrhoea,C0011991 C0474498,C0011991,C0011991 
 AskAPatient.fold-0.test,102551008,Cramp in foot,cramping in toes,C0178422,C0026821 C0040357 C1446787,
