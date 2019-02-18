@@ -617,7 +617,7 @@ AskAPatient.fold-0.test,3877011000036101,Lipitor,Lipitor,C0593906,C0593906,C0593
 AskAPatient.fold-0.test,314983004,Deteriorating renal function,Kidney function became a problem,C1278220,C0033213 C1705273 C0496927 C0496892 C0869841 C1278978 C0022646 C2081614 C0031843,
 AskAPatient.fold-0.test,161891005,Backache,back soreness,C0004604,C0234233,
 AskAPatient.fold-0.test,386807006,Memory impairment,couldnt remember anything,C0233794 C1636063 C1963167,C0034770,
-AskAPatient.fold-0.test,83547004,Cold sweat,cold sweat, shaking uncontrollably,C0232431,C0040822 C0232431,C0232431 
+AskAPatient.fold-0.test,83547004,Cold sweat,cold sweat shaking uncontrollably,C0232431,C0040822 C0232431,C0232431 
 AskAPatient.fold-0.test,250084002,Cramp in calf,cramping in calf,C0178419,C1446787 C0026821 C0230445,
 AskAPatient.fold-0.test,161891005,Backache,back aches,C0004604,C0004604,C0004604 
 AskAPatient.fold-0.test,25064002,Headache,headaches,C2096315 C0018681,C2096315 C0018681,C2096315 C0018681 
