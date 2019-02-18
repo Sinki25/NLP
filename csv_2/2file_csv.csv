@@ -70,7 +70,7 @@ AskAPatient.fold-2.test,250084002,Cramp in calf,calf cramps,C0178419,C0178419,C0
 AskAPatient.fold-2.test,76948002,Severe pain,severe pain in my limbs,C0278140,C0278140 C0561942 C0015385,C0278140 
 AskAPatient.fold-2.test,279039007,Low back pain,lower back pain,C0024031,C2168111 C0024031,C0024031 
 AskAPatient.fold-2.test,249940002,Shoulder girdle weakness,in shoulders weakness,C0427063,C0748691,
-AskAPatient.fold-2.test,309537005,Numbness of lower limb,top outer thigh muscle starts to feel very warm, then get numb and lastly it starts to feel very cool (Like the icy hot patch),C0587055 C2128237,C0224416 C1305400 C0013987 C0994894 C0721028 C1552850,
+AskAPatient.fold-2.test,309537005,Numbness of lower limb,top outer thigh muscle starts to feel very warm then get numb and lastly it starts to feel very cool (Like the icy hot patch),C0587055 C2128237,C0224416 C1305400 C0013987 C0994894 C0721028 C1552850,
 AskAPatient.fold-2.test,40917007,Confusion,mental confusion,C0009676 C0683369 C2712099 C1963086,C0009676,C0009676 
 AskAPatient.fold-2.test,249938007,Weakness of back,in back weakness,C3714552,C3714552,C3714552 
 AskAPatient.fold-2.test,254935002,Intracranial tumour,brain tumor,C1527390,C0854069 C0751888 C0006118,
