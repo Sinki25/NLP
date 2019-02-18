@@ -2595,7 +2595,7 @@ AskAPatient.fold-2.test,76948002,Severe pain,left leg below the knee experienced
 AskAPatient.fold-2.test,13746004,Bipolar disorder,bi-polar,C0005586 C0855233 C0236788 C0853193 C1456308,,
 AskAPatient.fold-2.test,419723007,Mentally dull,feel like I am in a fog,C1621860,C0013987,
 AskAPatient.fold-2.test,247373008,Ankle pain,ankle pain,C0238656,C0238656,C0238656 
-AskAPatient.fold-2.test,271832001,Flatulence, eructation and gas pain,gas pains in abdomen,C1962956 C0016204 C0014724 C0476289,C0000726 C0230168 C0476289,C0476289 
+AskAPatient.fold-2.test,271832001,Flatulence eructation and gas pain,gas pains in abdomen,C1962956 C0016204 C0014724 C0476289,C0000726 C0230168 C0476289,C0476289 
 AskAPatient.fold-2.test,3877011000036101,Lipitor,lipitor,C0593906,C0593906,C0593906 
 AskAPatient.fold-2.test,9126005,Menstrual spotting,spotting,C0312414,C0312414 C0025874,C0312414 
 AskAPatient.fold-3.test,166717003,Serum creatinine raised,CPK mildly elevated,C0700225,C0856882,
