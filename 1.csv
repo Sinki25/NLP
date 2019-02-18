@@ -3764,7 +3764,7 @@ AskAPatient.fold-4.test,224960004,Tired,very tired,C0557875,C0557875,C0557875
 AskAPatient.fold-4.test,282195009,Difficulty walking up stairs,Difficult to walk up and down the steps,C0560070 C0239067,C1299586,
 AskAPatient.fold-4.test,301676004,Unable to get off a bed,Unable to get out of bed,C1299582,C1299582,C1299582 
 AskAPatient.fold-4.test,279069000,Musculoskeletal pain,connective tissue pain,C2707260 C0026858,C0334083 C0030193 C0027656,
-AskAPatient.fold-4.test,29542008,Uterine spasm,uterine, cramps (menopausal for 20 years),C0151998,C0025320 C0026821 C1096235 C0042149,
+AskAPatient.fold-4.test,29542008,Uterine spasm,uterine cramps (menopausal for 20 years),C0151998,C0025320 C0026821 C1096235 C0042149,
 AskAPatient.fold-4.test,3877011000036101,Lipitor,Lipitor,C0593906,C0593906,C0593906 
 AskAPatient.fold-4.test,449917004,Cramp in lower limb,severe leg cramping,C3266180 C3266179,C0026821 C1306232 C1140621 C1446787,
 AskAPatient.fold-4.test,203095000,Spasm of back muscles,back spasms,C0238738,C0037763,
