@@ -3277,7 +3277,7 @@ AskAPatient.fold-3.test,271782001,Drowsy,hard to stay awake,C0013144,C0723446,
 AskAPatient.fold-3.test,274663001,Acute pain,Sudden knee pain,C0184567,C0231749,
 AskAPatient.fold-3.test,449917004,Cramp in lower limb,leg cramps,C3266179 C3266180,C0023218,
 AskAPatient.fold-3.test,424196004,Nervousness,jittery,C0027769 C0849963,,
-AskAPatient.fold-3.test,271832001,Flatulence, eructation and gas pain,gas pains,C1962956 C0016204 C0014724 C0476289,C0476289,C0476289 
+AskAPatient.fold-3.test,271832001,Flatulence eructation and gas pain,gas pains,C1962956 C0016204 C0014724 C0476289,C0476289,C0476289 
 AskAPatient.fold-3.test,28551000168108,Voltaren,Voltaren,C0592264 C0699958,C0592264 C0699958,C0592264 C0699958 
 AskAPatient.fold-3.test,25064002,Headache,headaches,C2096315 C0018681,C2096315 C0018681,C2096315 C0018681 
 AskAPatient.fold-3.test,4344011000036106,Neurontin,neurontin,C0678176,C0678176,C0678176 
