@@ -196,7 +196,7 @@ AskAPatient.fold-1.test,449917004,Cramp in lower limb,muscle spasms in leg,C3266
 AskAPatient.fold-1.test,161891005,Backache,wicked back pain,C0004604,C0004604 C0677061 C2937302 C1963071,C0004604 
 AskAPatient.fold-1.test,6142004,Influenza,flu,C0021400,C0021400,C0021400 
 AskAPatient.fold-1.test,279039007,Low back pain,lower back pain,C0024031,C2168111 C0024031,C0024031 
-AskAPatient.fold-1.test,271832001,Flatulence, eructation and gas pain,diarreah cramping,C0476289 C1962956 C0016204 C0014724,C0026821 C1446787,
+AskAPatient.fold-1.test,271832001,Flatulence eructation and gas pain,diarreah cramping,C0476289 C1962956 C0016204 C0014724,C0026821 C1446787,
 AskAPatient.fold-1.test,29857009,Chest pain,chest hurt,C0008031 C2926613,C0817096,
 AskAPatient.fold-1.test,161891005,Backache,back pain,C0004604,C0004604 C0677061 C1963071,C0004604 
 AskAPatient.fold-1.test,25064002,Headache,bad headache,C0018681 C2096315,C0018681 C2096315,C0018681 C2096315 
